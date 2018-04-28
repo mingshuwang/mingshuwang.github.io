@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Mingshu Wang"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -66,7 +66,7 @@ enableGitInfo = false
   email = "mswang(AT)uga(DOT)edu"
   address = "210 Field St, Rm 204, Athens, GA, 30602, USA"
   office_hours = "Email for appointment"
-  phone = "888 888 88 88"
+  phone = "+1-706-542-2374"
   skype = ""
   telegram = ""
 
@@ -237,6 +237,11 @@ enableGitInfo = false
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.com/citations?user=oVsGl44AAAAJ"
+  
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Mingshu_Wang"
 
   #[[params.social]]
    # icon = "github"
