@@ -10,31 +10,30 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Urban Informatics",
+    "GIScience",
+    "City and Regional Development"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Geography (GIScience)"
+  institution = "University of Georgia"
+  year = 2018
+
+[[education.courses]]
+  course = "MSc in Geography (GIScience)"
+  institution = "University of Georgia"
+  year = 2014
+
+[[education.courses]]
+  course = "BSc in Regional Planning"
+  institution = "Nanjing University"
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mingshu Wang is a final-year PhD Candidate (date of degree conferral: Aug 2018) of Geography (GIScience) at the University of Georgia. He uses GIScience (geographical information systems, remote sensing, and spatial analysis) in conjunction with big data analytics (econometrics, machine learning, and natural language processing) to understand urban systems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
