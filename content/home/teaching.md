@@ -13,12 +13,18 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 60
 
+<!-- - GEOG 4590L/6590L: Programming for GIS (Lab Instructor, Spring 2018)
+- GEOG 4330L/6330L: Aerial Photographs and Image Interpretation (Lab Instructor, Fall 2017)
+- FYOS 1001: GIScience and GITechnology (Guest Lecturer, Fall 2016)
+- GEOG 1111: Introduction to Physical Geography (Teaching Assistant, Spring 2013)
+- SOCI 3600: The Logic and Practice of Sociological Research (Teaching Assistant, Fall 2012) -->
+
 +++
 
 I have taught the following courses at the University of Georgia:
 
-- GEOG 4590L/6590L: Programming for GIS (Lab Instructor, Spring 2018)
-- GEOG 4330L/6330L: Aerial Photographs and Image Interpretation (Lab Instructor, Fall 2017)
-- FYOS 1001: GIScience and GITechnology (Guest Lecturer, Fall 2016)
-- GEOG 1111: Introduction to Physical Geography (Teaching Assistant, Spring 2013)
-- SOCI 3600: The Logic and Practice of Sociological Research (Teaching Assistant, Fall 2012)
+- GEOG 4590L/6590L: Programming for GIS
+- GEOG 4330L/6330L: Aerial Photographs and Image Interpretation
+- FYOS 1001: GIScience and GITechnology
+- GEOG 1111: Introduction to Physical Geography
+- SOCI 3600: The Logic and Practice of Sociological Research
