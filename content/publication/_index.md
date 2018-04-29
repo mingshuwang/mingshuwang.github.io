@@ -9,10 +9,10 @@ highlight = false
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 3
+list_format = 2
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "JTG2017.jpg"
-caption = "Bike-sharing systems (BSSs) in US urban areas, 2005–2014."
+#image = "JTG2017.jpg"
+#caption = "Bike-sharing systems (BSSs) in US urban areas, 2005–2014."
 +++
