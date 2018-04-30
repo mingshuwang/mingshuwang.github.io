@@ -14,10 +14,6 @@ weight = 20
 # Number of publications to list.
 count = 50
 
-# Enable global LaTeX math rendering?
-#   If false, you can enable it locally on a per page basis.
-math = true
-
 # List format.
 #   0 = Simple
 #   1 = Detailed

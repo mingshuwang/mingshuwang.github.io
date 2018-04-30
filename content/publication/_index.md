@@ -2,7 +2,7 @@
 title = "Publications"
 date = 2017-01-01T00:00:00
 math = true
-highlight = true
+highlight = false
 
 # List format.
 #   0 = Simple
@@ -17,4 +17,3 @@ list_format = 2
 #caption = "Bike-sharing systems (BSSs) in US urban areas, 2005–2014."
 +++
 
-AAA
