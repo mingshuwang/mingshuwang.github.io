@@ -16,9 +16,16 @@ weight = 70
 +++
 
 #### ORGANIZATIONAL ROLES WITHIN PROFESSIONAL SOCIETIES
+-------------| ------------- 
 2017-        | **Councilperson**, Mid-South Region, [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/)
 2015-        | **Secretary**, [Working Group IV/6—Internet of Things and Spatial Decision Support, International Society for Photogrammetry and Remote Sensing (ISPRS)](http://www2.isprs.org/commissions/comm4/wg6.html)
 2014-2015    | **Chair**, Student Advisory Council, [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/)
-2013-2014    | **Deputy Chair***, Student Advisory Council, [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/)
+2013-2014    | **Deputy Chair**, Student Advisory Council, [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/)
 
 #### CONFERENCE PROGRAM COMMITTEE
+- ISPRS Technical Commission IV Symposium 2018 (Delft, Netherlands, 2018)
+- The 3rd international Conference on Smart Data for Smart Cities (Delft, Netherlands, 2018)
+- The 2nd International Conference on Smart Data and Smart Cities (Puebla, Mexico, 2017)
+- ASPRS 2016 Annual Conference (Fort Worth, TX, USA, 2016)
+- IEEE International Smart Cities Conference (Guadalajara, Mexico, 2015)
+- University of Georgia the 2nd Geography Graduate Research Symposium (Athens, GA, USA, 2016)
