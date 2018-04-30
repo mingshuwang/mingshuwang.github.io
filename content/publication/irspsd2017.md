@@ -3,7 +3,7 @@ title = "Big data for intrametropolitan human movement studies: A case study of 
 date = 2017-05-15
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jiangping Zhou", "**Mingshu Wang**", "Ying Long"]
+authors = ["Jiangping Zhou", "**Mingshu Wang***", "Ying Long"]
 
 # Publication type.
 # Legend:
@@ -17,8 +17,8 @@ authors = ["Jiangping Zhou", "**Mingshu Wang**", "Ying Long"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = " *International Review for Spatial Planning and Sustainable Development*, *5*(3), 100-115"
-publication_short = " *International Review for Spatial Planning and Sustainable Development*, *5*(3), 100-115"
+publication = " *International Review for Spatial Planning and Sustainable Development*, *5*(3), 100-115 (**Corresponding Author**)"
+publication_short = " *International Review for Spatial Planning and Sustainable Development*, *5*(3), 100-115 (**Corresponding Author**)"
 
 # Abstract and optional shortened version.
 abstract = "Unlike the data from traditional sources, there have not been standard ways to validate the quality and reliability of information derived from big data. This article argues that the theory of urban formation can be used to do the validation. In addition, the information derived from big data can be used to verify and even extend existing theories or hypotheses of urban formation. It proposes a general framework regarding how the theory of urban formation can be employed to validate information derived from smart card data and how the validated information can supplement other data to reveal spatial patterns of economic agglomeration or human settlements. Through a case study of Beijing, it demonstrates the usefulness of the framework. Additionally, it utilizes smart card data to delineate characteristics of subcenters defined by bus commuters of Beijing."
