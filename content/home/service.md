@@ -13,14 +13,17 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 70
 
-
-
 +++
 
-I have taught the following courses at the University of Georgia:
+###ORGANIZATIONAL ROLES WITHIN PROFESSIONAL SOCIETIES
+YEAR | ROLE
+-------------| -------------
+2017-  | **Councilperson***, Mid-South Region,
+American Society for Photogrammetry and Remote Sensing (ASPRS)
+2015- | **Secretary**, Working Group IV/6—Internet of Things and Spatial Decision Support, International Society for Photogrammetry and Remote Sensing (ISPRS)
+2014-2015  | **Chair***, Student Advisory Council,
+American Society for Photogrammetry and Remote Sensing (ASPRS)
+2013-2014  | **Deputy Chair***, Student Advisory Council,
+American Society for Photogrammetry and Remote Sensing (ASPRS)
 
-- GEOG 4590L/6590L: Programming for GIS
-- GEOG 4330L/6330L: Aerial Photographs and Image Interpretation
-- FYOS 1001: GIScience and GITechnology
-- GEOG 1111: Introduction to Physical Geography
-- SOCI 3600: The Logic and Practice of Sociological Research
+###CONFERENCE PROGRAM COMMITTEE
