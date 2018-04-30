@@ -24,9 +24,11 @@ Year         | Role
 2013-2014    | **Deputy Chair**, Student Advisory Council, [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/)
 
 #### CONFERENCE PROGRAM COMMITTEE
-- ISPRS Technical Commission IV Symposium 2018 (Delft, Netherlands, 2018)
-- The 3rd international Conference on Smart Data for Smart Cities (Delft, Netherlands, 2018)
-- The 2nd International Conference on Smart Data and Smart Cities (Puebla, Mexico, 2017)
-- ASPRS 2016 Annual Conference (Fort Worth, TX, USA, 2016)
-- IEEE International Smart Cities Conference (Guadalajara, Mexico, 2015)
-- University of Georgia the 2nd Geography Graduate Research Symposium (Athens, GA, USA, 2016)
+Year| Conference   |Location
+----| -------------|-------- 
+2018|[ISPRS Technical Commission IV Symposium 2018](http://www.isprs.org/tc4-symposium2018/)| Delft, Netherlands
+2018|[The 3rd international Conference on Smart Data for Smart Cities](http://sdsc2018.hft-stuttgart.de/)| Delft, Netherlands
+2017|[The 2nd international Conference on Smart Data for Smart Cities](http://ing.pue.itesm.mx/udms2017/)| Puebla, Mexico
+2016|[ASPRS 2016 Annual Conference](http://conferences.asprs.org/archives/Fort-Worth-2016/Ft-Worth-2016-Home)| Fort Worth, TX, USA
+2015|[IEEE International Smart Cities Conference](http://sites.ieee.org/isc2-2015/)| Guadalajara, Mexico
+
