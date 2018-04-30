@@ -24,11 +24,16 @@ Year         | Role
 2013-2014    | **Deputy Chair**, Student Advisory Council, [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/)
 
 #### CONFERENCE PROGRAM COMMITTEE
-Year| Conference   |Location
-----| -------------|-------- 
-2018|[ISPRS Technical Commission IV Symposium 2018](http://www.isprs.org/tc4-symposium2018/)| Delft, Netherlands
-2018|[The 3rd international Conference on Smart Data for Smart Cities](http://sdsc2018.hft-stuttgart.de/)| Delft, Netherlands
-2017|[The 2nd international Conference on Smart Data for Smart Cities](http://ing.pue.itesm.mx/udms2017/)| Puebla, Mexico
-2016|[ASPRS 2016 Annual Conference](http://conferences.asprs.org/archives/Fort-Worth-2016/Ft-Worth-2016-Home)| Fort Worth, TX, USA
-2015|[IEEE International Smart Cities Conference](http://sites.ieee.org/isc2-2015/)| Guadalajara, Mexico
+Year| Conference|Location
+----| ----------|-------- 
+2018|[ISPRS Technical Commission IV Symposium 2018](http://www.isprs.org/tc4-symposium2018/)|Delft, Netherlands
+2018|[The 3rd international Conference on Smart Data for Smart Cities](http://sdsc2018.hft-stuttgart.de/)|Delft, Netherlands
+2017|[The 2nd international Conference on Smart Data for Smart Cities](http://ing.pue.itesm.mx/udms2017/)|Puebla, Mexico
+2016|[ASPRS 2016 Annual Conference](http://conferences.asprs.org/archives/Fort-Worth-2016/Ft-Worth-2016-Home)|Fort Worth, TX, USA
+2015|[IEEE International Smart Cities Conference](http://sites.ieee.org/isc2-2015/)|Guadalajara, Mexico
 
+#### CONFERENCE SESSION CHAIR
+Year| Conference|Session|Location
+----| ----------|-------|--------
+2016|[XXIII ISPRS Congress](http://www.isprs2016-prague.com/)|Location-based Social Media Data|Prague, Czech Republic
+2014|[2014 ASPRS Annual Conference](http://conferences.asprs.org/archives/Louisville-2014/blog)|[GeoLeague Challenge](https://www.asprs.org/student/geoleague-challenge-2014.html)|Louisville, KY, USA
