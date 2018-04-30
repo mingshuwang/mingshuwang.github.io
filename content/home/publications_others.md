@@ -13,15 +13,14 @@ subtitle = "Others"
 # Order that this section will appear in.
 weight = 25
 
-
 +++
-### GUEST-EDITED JOURNAL VOLUMES
+#### GUEST-EDITED JOURNAL VOLUMES
 - Madden, M., Vacca, G., Paudyal, D., **Wang, M.** (2018). Geospatial Applications of the Internet of Things (IoTs). [Special Issue *ISPRS International Journal of Geo-Information*](http://www.mdpi.com/journal/ijgi/special_issues/Geospatial_IoT).
 
-### BOOK CHAPTERS
+#### BOOK CHAPTERS
 - **Wang, M.** (In Press). Empirical Mode Decomposition in Remote Sensed Image Processing. In Chapter 7: Image Processing and Analysis Methods, *ASPRS Manual of Remote Sensing*, 4th Edition. Edited by Brandades, S. & Madden, M.
 
-### BOOK REVIEWS
+#### BOOK REVIEWS
 - **Wang, M.** (In Press). Integrating Scale in Remote Sensing and GIS, Edited by Quattrochi, D., Wentz, E., Lam, N., Emerson, C. CRC Press, Boca Raton, FL, USA. Jan 19, 2017. 402p. *Photogrammetric Engineering & Remote Sensing*
 - **Wang, M.** (2016). Location Is (Still) Everything: The Surprising Influence of the Real World on How We Search, Shop, and Sell in the Virtual One, David R. Bell. Houghton Mifflin Harcourt, Boston, MA, July 15, 2014. 240p. *Southeastern Geographer*, 56*(4), 476-477.
 - **Wang, M.**(2015). Global Urban Monitoring and Assessment through Earth Observation, Edited by Weng, Q. CRC Press, Boca Raton, FL, USA. May 23, 2014. 440p. *Photogrammetric Engineering & Remote Sensing*, *81*(9), 692-694.
