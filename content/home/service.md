@@ -71,3 +71,9 @@ Year| Conference|Session|Location
 - Remote Sensing (SCI)
 - Space and Culture (SSCI)
 - Smart Cities
+
+#### SELECTED PROFESSIONAL MEMBERSHIPS
+- Regional Studies Association
+- American Society of Civil Engineers (ASCE)
+- American Association of Geographers (AAG)
+- American Society of Photogrammetry and Remote Sensing (ASPRS)
