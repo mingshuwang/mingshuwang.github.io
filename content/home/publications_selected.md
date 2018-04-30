@@ -12,6 +12,11 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 10
 
+# Enable global LaTeX math rendering?
+#   If false, you can enable it locally on a per page basis.
+math = true
+
+
 # List format.
 #   0 = Simple
 #   1 = Detailed
