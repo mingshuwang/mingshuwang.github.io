@@ -39,10 +39,10 @@ Year| Conference|Session|Location
 2014|[2014 ASPRS Annual Conference](http://conferences.asprs.org/archives/Louisville-2014/blog)|[GeoLeague Challenge](https://www.asprs.org/student/geoleague-challenge-2014.html)|Louisville, KY, USA
 
 #### REVIEWER FOR JOURNALS/CONFERENCES
-####### PEER-REVIEW COMPLETED FOR
-- Annals of GIS
-- Applied Geography (SSCI)
-- Asian Geographer
+###### PEER-REVIEW COMPLETED FOR
+*Annals of GIS
+*Applied Geography (SSCI)
+*Asian Geographer
 - ASPRS/CaGIS Glossary of the Mapping Science
 - ASPRS Annual Conference
 - Cities (SSCI)
@@ -60,7 +60,7 @@ Year| Conference|Session|Location
 - Sustainability (SCI)
 - Transaction in GIS (SSCI)
 
-####### REVIEWER FOR
+###### REVIEWER FOR
 - Buildings
 - International Journal of Geographical Information Science (SSCI)
 - Journal of Location Based Services (SSCI)
