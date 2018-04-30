@@ -264,7 +264,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]
@@ -298,6 +298,8 @@ enableGitInfo = false
   name = "Contact"
   url = "#contact"
   weight = 8
+
+
 
 # Taxonomies.
 [taxonomies]
