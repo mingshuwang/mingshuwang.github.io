@@ -4,9 +4,9 @@ date = 2016-01-01T00:00:00  # Schedule page publish date.
 title = "Gerogia Water Resources"
 time_start = 2015-11-13T09:00:00
 time_end = 2015-11-13T16:00:00
-abstract = "NASA DEVELOP National Program"
-abstract_short = "In the era of "
-event = ""
+abstract = ""
+abstract_short = ""
+event = "NASA DEVELOP National Program"
 event_url = "https://develop.larc.nasa.gov"
 location = "NOAA National Centers for Environmental Information, Ashville, NC, USA"
 
