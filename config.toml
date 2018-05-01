@@ -228,10 +228,10 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "mailto:mswang@uga.edu"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/MingshuWang"
+#  [[params.social]]
+#    icon = "twitter"
+#    icon_pack = "fa"
+#    link = "//twitter.com/MingshuWang"
 
   [[params.social]]
     icon = "google-scholar"
@@ -287,18 +287,15 @@ enableGitInfo = false
   url = "#service"
   weight = 6
 
-
 [[menu.main]]
   name = "Awards"
   url = "#awards"
   weight = 7
 
-
 [[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 8
-
 
 
 # Taxonomies.
