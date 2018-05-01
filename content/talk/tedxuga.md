@@ -1,13 +1,13 @@
 +++
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
-title = "TEDxUGA 2016"
-time_start = 2030-06-01T13:00:00
-time_end = 2030-06-01T15:00:00
+title = "We Are All Geographers"
+time_start = 2016-03-18T13:00:00
+time_end = 2016-03-18T17:00:00
 abstract = ""
 abstract_short = ""
-event = "Academic Theme Conference"
-event_url = "https://example.org"
+event = "TEDxUGA"
+event_url = "https://www.ted.com/tedx/events/16642"
 location = "Athens, GA, USA"
 
 # Is this a selected talk? (true/false)
@@ -22,7 +22,7 @@ selected = false
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=MuF6fWk7w4k"
 url_code = ""
 
 # Does the content use math formatting?
