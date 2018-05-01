@@ -5,8 +5,8 @@ widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Publications"
-subtitle = "In Peer-review Journals"
+title = "All Publications"
+subtitle = "In Peer-Review Journals"
 
 # Order that this section will appear in.
 weight = 20

@@ -1,1 +1,1 @@
-Mingshu Wang's Personal Page
+&copy; Mingshu Wang 2018

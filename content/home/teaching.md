@@ -19,8 +19,10 @@ weight = 60
 
 I have taught the following courses at the University of Georgia:
 
-- GEOG 4590L/6590L: Programming for GIS
-- GEOG 4330L/6330L: Aerial Photographs and Image Interpretation
-- FYOS 1001: GIScience and GITechnology
-- GEOG 1111: Introduction to Physical Geography
-- SOCI 3600: The Logic and Practice of Sociological Research
+Year|Course|
+----|------| 
+2018|Programming for GIS ([GEOG 4590L/6590L](http://bulletin.uga.edu/link.aspx?cid=GEOG4590-4590L/6590-6590L))
+2017|Aerial Photographs and Image Interpretation ([GEOG 4330L/6330L](http://geography.uga.edu/courses/content/geog-44304430l))
+2016|Aerial GIScience and GITechnology (FYOS 1001, Guest Lecturer)
+2013|Introduction to Physical Geography (GEOG 1111)
+2012|The Logic and Practice of Sociological Research (SOCI 3600)

@@ -15,7 +15,7 @@ weight = 70
 
 +++
 
-#### ORGANIZATIONAL ROLES WITHIN PROFESSIONAL SOCIETIES
+#### Organizational Roles within Professional Societies
 Year         | Role
 -------------| ------------- 
 2017-        | **Councilperson**, Mid-South Region, [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/)
@@ -23,7 +23,7 @@ Year         | Role
 2014-2015    | **Chair**, Student Advisory Council, [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/)
 2013-2014    | **Deputy Chair**, Student Advisory Council, [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/)
 
-#### CONFERENCE PROGRAM COMMITTEE
+#### Conference Program Committee
 Year| Conference|Location
 ----| ----------|-------- 
 2018|[ISPRS Technical Commission IV Symposium 2018](http://www.isprs.org/tc4-symposium2018/)|Delft, Netherlands
@@ -32,13 +32,13 @@ Year| Conference|Location
 2016|[ASPRS 2016 Annual Conference](http://conferences.asprs.org/archives/Fort-Worth-2016/Ft-Worth-2016-Home)|Fort Worth, TX, USA
 2015|[IEEE International Smart Cities Conference](http://sites.ieee.org/isc2-2015/)|Guadalajara, Mexico
 
-#### CONFERENCE SESSION CHAIR
+#### Conference Session Chair
 Year| Conference|Session|Location
 ----| ----------|-------|--------
 2016|[XXIII ISPRS Congress](http://www.isprs2016-prague.com/)|Location-based Social Media Data|Prague, Czech Republic
 2014|[2014 ASPRS Annual Conference](http://conferences.asprs.org/archives/Louisville-2014/blog)|[GeoLeague Challenge](https://www.asprs.org/student/geoleague-challenge-2014.html)|Louisville, KY, USA
 
-#### PEER REVIEWER FOR ACADEMIC JOURNALS
+#### Peer Reviewer for Academic Journals
 - Annals of GIS
 - Applied Geography (SSCI)
 - Asian Geographer
@@ -62,8 +62,8 @@ Year| Conference|Session|Location
 - Sustainability (SCI)
 - Transactions in GIS (SSCI)
 
-#### SELECTED PROFESSIONAL MEMBERSHIPS
-- Regional Studies Association
+#### Selected Professional Memberships
+- Regional Studies Association (RSA)
 - American Society of Civil Engineers (ASCE)
 - American Association of Geographers (AAG)
 - American Society of Photogrammetry and Remote Sensing (ASPRS)
