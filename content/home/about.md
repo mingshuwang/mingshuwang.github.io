@@ -35,5 +35,7 @@ weight = 5
 
 # Biography
 
-Mingshu Wang is a final-year PhD Candidate of Geography (GIScience) at the University of Georgia. His research focues on understanding sustainable urban systems with GIScience (geographical information systems, remote sensing, and spatial analysis) and big data analytics (machine learning, econometrics, and natural language processing).
+Mingshu Wang is a final-year PhD Candidate of Geography (**GIScience**) at the University of Georgia.
+
+His research focues on understanding **sustainable urban systems** with **GIScience** (i.e., geographical information systems, remote sensing, and spatial analysis) and **big data analytics** (e.g., machine learning, econometrics, and natural language processing).
 
