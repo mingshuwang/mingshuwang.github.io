@@ -34,10 +34,10 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = "tedxuga2016.png"
+# caption = "My caption :smile:"
 
 +++
 
-[vimeo https://vimeo.com/161325598]
+[vimeo 161325598]
 
