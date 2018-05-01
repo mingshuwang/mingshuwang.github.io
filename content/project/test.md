@@ -23,3 +23,7 @@ tags = ["demo"]
 math = false
 
 +++
+
+- Abbb
+
+{{< figure src="/img/JTG2017.jpg" title="image_preview" >}}

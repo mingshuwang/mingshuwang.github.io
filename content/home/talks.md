@@ -23,4 +23,4 @@ Year|Institute(s)|
 2017|East China Normal University, Huazhong University of Science and Technology, Southwest University
 2016|[TEDxUGA]({{< ref "talk/tedxuga.md" >}}), East China University of Science and Technology, Guangzhou University, Northwestern Polytechnical University, University of Liverpool
 2015|[NOAA National Centers for Environmental Information]({{< ref "talk/gawater.md" >}}), Sun Yat-sen University
-2014|Columnbia University
+2014|Columbia University
