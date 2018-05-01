@@ -11,12 +11,13 @@ event_url = "https://example.org"
 location = "Athens, GA, USA"
 
 # Is this a selected talk? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["deep-learning"]
+
+# projects = ["deep-learning"]
 
 # Links (optional).
 url_pdf = ""
@@ -38,4 +39,5 @@ caption = "My caption :smile:"
 
 +++
 
-Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code.
+[vimeo https://vimeo.com/161325598]
+
