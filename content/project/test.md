@@ -17,7 +17,7 @@ image_preview = "JTG2017.jpg"
 tags = ["demo"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ({{< ref "project/test.md" >}})
+# external_link = {{< ref "project/test.md" >}}
 
 # Does the project detail page use math formatting?
 math = false
