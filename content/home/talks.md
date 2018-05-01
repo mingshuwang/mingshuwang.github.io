@@ -21,6 +21,6 @@ Year|Institute(s)|
 ----|------|
 2018|Nanjing University, New York University, University of Liverpool, University of Toronto, University of North Carolina at Greensboro, University of North Texas
 2017|East China Normal University, Huazhong University of Science and Technology, Southwest University
-2016|[TEDxUGA]({{< ref "talk/tedxuga.md" >}}) url_video = "https://www.youtube.com/watch?v=MuF6fWk7w4k", East China University of Science and Technology, Guangzhou University, Northwestern Polytechnical University, University of Liverpool
-2015|[NOAA National Centers for Environmental Information]({{< ref "talk/gawater.md" >}}) url_video = "https://www.youtube.com/watch?v=FhURbaueuCs", Sun Yat-sen University
+2016|[TEDxUGA]({{< ref "talk/tedxuga.md" >}}), East China University of Science and Technology, Guangzhou University, Northwestern Polytechnical University, University of Liverpool
+2015|[NOAA National Centers for Environmental Information]({{< ref "talk/gawater.md" >}}), Sun Yat-sen University
 2014|Columnbia University
