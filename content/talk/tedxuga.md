@@ -1,12 +1,12 @@
 +++
-date = 2017-01-01T00:00:00  # Schedule page publish date.
+date = 2016-01-01T00:00:00  # Schedule page publish date.
 
 title = "We Are All Geographers"
 time_start = 2016-03-18T13:00:00
 time_end = 2016-03-18T17:00:00
 abstract = ""
-abstract_short = ""
-event = "TEDxUGA"
+abstract_short = "In the era of "
+event = "TEDxUGA 2016"
 event_url = "https://www.ted.com/tedx/events/16642"
 location = "Athens, GA, USA"
 
@@ -37,6 +37,9 @@ highlight = true
 # image = "tedxuga2016.png"
 # caption = "My caption :smile:"
 
+#{{< vimeo 161325598 >}}
+
 +++
-{{< vimeo 161325598 >}}
+{{< youtube MuF6fWk7w4k >}}
+
 
