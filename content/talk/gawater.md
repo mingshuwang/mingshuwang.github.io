@@ -2,13 +2,13 @@
 date = 2016-01-01T00:00:00  # Schedule page publish date.
 
 title = "Gerogia Water Resources"
-time_start = 2015-11-15
-time_end = 2015-11-15
+time_start = 2015-11-13T09:00:00
+time_end = 2015-11-13T16:00:00
 abstract = ""
 abstract_short = "In the era of "
-event = "NASA DEVELOP National Program"
+event = ""
 event_url = "https://develop.larc.nasa.gov"
-location = "Athens, GA, USA"
+location = "NOAA National Centers for Environmental Information, Ashville, NC, USA"
 
 # Is this a selected talk? (true/false)
 selected = false
