@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "External"
 
 # Project summary to display on homepage.
-summary = "An example of linking directly to an external project website using `G`."
+summary = "An example of linking directly to an external project website using [`G`]({{< ref "project/test.md" >}})."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "JTG2017.jpg"
@@ -17,11 +17,9 @@ image_preview = "JTG2017.jpg"
 tags = ["demo"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://scholar.google.com/"
+external_link = ({{< ref "project/test.md" >}})
 
 # Does the project detail page use math formatting?
 math = false
 
 +++
-
-AAAAAAAAAAAAAAA
