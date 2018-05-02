@@ -48,11 +48,36 @@ Chinese cities at prefecture level and above.
 ##### Polycentric Urban Regions (PURs) in China
 ![Polycentric Urban Regions (PURs) in China](/img/PUR_CN.png)
 
+PUR|Full Name|Major Cities|Area (in 10,000 km^2^)
+---|---------|------------|------
+BTH|Beijing-Tianjin-Hebei|Beijing, Tianjin|18.27
+CSX|Central Shanxi|Taiyuan|2.79
+CIM|Central Inner Mongolia|Hohhot|13.19
+LDP|Liaodong Peninsula|Shenyang, Dalian|12.76
+HAC|Harbin-Changchun|Harbin, Changchun|18.53
+YRD|Yangtze River Delta|Shanghai, Nanjing, Hangzhou|10.05
+CAH|Central Anhui|Hefei|8.63
+EFJ|Eastern Fujian|Fuzhou, Xiamen (Amoy)|5.5
+NJX|Northern Jiangxi|Nanchang|5.78
+SDP|Shandong Peninsula|Jinan, Qingdao (Tsingtao)|7.39
+CPL|Central Plain|Zhengzhou|5.68
+EHB|Eastern Hubei|Wuhan|5.09
+EHN|Eastern Hunan|Changsha|2.81
+PRD|Pearl River Delta|Guangzhou, Shenzhen|5.47
+SGX|Southern Guangxi|Nanning|4.26
+CHC|Chengdu-Chongqing|Chengdu, Chongqing|26.65
+CGZ|Central Guizhou|Guiyang|10.46
+CYN|Central Yunnan|Kunming|9.45
+GZP|Guanzhong Plain|Xi’an|5.54
+LAX|Lanzhou-Xining|Lanzhou, Xining|6.85
+NNX|Northern Ningxia|Yinchuan|4.07
+TSM|Tianshan Mountains|Urumqi|9.56
+
 - A typology of Chinese PURs is presented based on the average **intra-urban** polycentricity and **inter-urban** polycentricity, where there is only **limited** levels of association between inter-urban and inter-urban polycentricity.
 ![scatter](/img/epb2017_scatter.png)
 
 
-- The **Yangtze River Delta** and **Pearl River Delta** have high levels of both **intra-urban** and **inter-urban** polycentricity.
+- The **Yangtze River Delta**(see below) and **Pearl River Delta** have high levels of both **intra-urban** and **inter-urban** polycentricity.
 ![YRD](/img/epb2017_yrd.png)
 
 
