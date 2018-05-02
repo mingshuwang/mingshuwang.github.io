@@ -6,7 +6,7 @@ date = 2016-03-27T00:00:00
 title = "How Polycentric is Urban China?"
 
 # Project summary to display on homepage.
-summary = "An example of linking directly to an external project website using `external_link`"
+summary = "We quantified the degree of polycentric urban development at both **intra-urban** and **inter-urban** levels in China with [LandScan^TM^](https://landscan.ornl.gov/) products."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "PUR_CN.png"
@@ -14,7 +14,7 @@ image_preview = "PUR_CN.png"
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 
-tags = ["pud"]
+tags = ["polycentric_urban_development"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

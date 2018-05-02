@@ -34,7 +34,7 @@ filter_default = 0
   
 [[filter]]
    name = "Polycentric Urban Development"
-   tag = ".pud"
+   tag = ".polycentric_urban_development"
 
 [[filter]]
    name = "Urban Mobilities"

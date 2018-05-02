@@ -3,7 +3,7 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "External"
+title = "Bike-sharing Systems & Congestion"
 
 # Project summary to display on homepage.
 summary = "An example of linking directly to an external project website using `external_link`"
@@ -14,7 +14,7 @@ image_preview = "JTG2017.jpg"
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 
-tags = ["um"]
+tags = ["urban_mobilities"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = {{< ref "project/bss.md" >}}
@@ -24,6 +24,6 @@ math = false
 
 +++
 
-- Abbb
+- Bike-sharing Systems & Congestion
 
 {{< figure src="/img/JTG2017.jpg" title="image_preview" >}}
