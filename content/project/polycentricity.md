@@ -23,12 +23,13 @@ external_link = ""
 math = false
 
 +++
-Polycentric cities are formed when previously close-by but independent urban settlements form a larger and more integrated urban system. Polycentricity is oftentimes deemed a desirable urban form, generating greater agglomeration externalities as well as facilitating the achievement of social, economic, and environmental goals. More importantly, polycentricity has been observed and analyzed at various geographical scales, including the **intra-urban** scale (e.g., Central Business Districts (CBDs), edge cities, and satellite towns within a city), the **inter-urban** scale (e.g., the ‘Pearl River Delta’ mega-city region).
+**Polycentric urban development** refers to different forces causing multiple previously close-by but independent urban sub-divisions to become a larger and more integrated **urban system**. **Polycentricity** is oftentimes deemed a desirable urban form, generating greater agglomeration externalities as well as facilitating the achievement of social, economic, and environmental goals. Polycentric urban development has been observed and analyzed at various geographical scales, including the **intra-urban** (e.g., Central Business Districts (CBDs), edge cities, and satellite towns within a city), and **inter-urban** (e.g., the ‘Pearl River Delta’ mega-city region) scales.
 
-Despite much insightful work on polycentric urban development in China, there is a lack of systematic comparison at either scale. Therefore, in this project, we identified polycentric urban structure and quantified the degree of polycentricity in China at both **intra-urban** and **inter-urban** scales using detailed gridded population data, provided by U.S. Oak Ridge National Laboratory (ORNL)'s [LandScan](https://landscan.ornl.gov/) dataset.
+Despite much insightful work on polycentric urban development in China, there is a lack of systematic comparison at either scale. Therefore, in this project, we identified polycentric urban structure and quantified the degree of polycentricity in China at both **intra-urban** and **inter-urban** scales using detailed gridded population data, provided by [U.S. Oak Ridge National Laboratory (ORNL)'s LandScan](https://landscan.ornl.gov/) dataset.
 
 
-[Chinese cities at prefecture level and above.](/img/LAND2016.jpg)
+![Chinese cities at prefecture level and above.](/img/LAND2016.jpg)
+
 At **intra-urban** scale:
 
 - Over 90% of cities have four or fewer intra-urban centers.
@@ -39,7 +40,7 @@ At **intra-urban** scale:
 
 
 
-[Polycentric Urban Regions (PURs) in China](/img/PUR_CN.png)
+![Polycentric Urban Regions (PURs) in China](/img/PUR_CN.png)
 
 - A typology of Chinese PURs is presented based on the average **intra-urban** polycentricity and **inter-urban** polycentricity, where there is only **limited** levels of association between inter-urban and inter-urban polycentricity.
 - The Pearl River Delta and Yangtze River Delta have high levels of both **intra-urban** and **inter-urban** polycentricity.
