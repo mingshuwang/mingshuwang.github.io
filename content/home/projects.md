@@ -40,5 +40,12 @@ filter_default = 0
    name = "Urban Mobilities"
    tag = ".urban_mobilities"
 
+[[filter]]
+   name = "China"
+   tag = ".cn"
+
+[[filter]]
+   name = "United States"
+   tag = ".us"   
 +++
 
