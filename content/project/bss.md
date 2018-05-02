@@ -14,10 +14,10 @@ image_preview = "JTG2017.jpg"
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 
-tags = ["demo"]
+tags = ["um"]
 
 # Optional external URL for project (replaces project detail page).
-# external_link = {{< ref "project/test.md" >}}
+# external_link = {{< ref "project/bss.md" >}}
 
 # Does the project detail page use math formatting?
 math = false

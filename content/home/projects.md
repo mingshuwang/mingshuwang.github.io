@@ -33,12 +33,12 @@ filter_default = 0
    tag = "*"
   
 [[filter]]
-   name = "Deep Learning"
-   tag = ".deep-learning"
+   name = "Polycentric Urban Development"
+   tag = ".pud"
 
 [[filter]]
-   name = "Other"
-   tag = ".demo"
+   name = "Urban Mobilities"
+   tag = ".um"
 
 +++
 
