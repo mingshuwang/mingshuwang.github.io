@@ -48,8 +48,8 @@ Chinese cities at prefecture level and above.
 ##### Polycentric Urban Regions (PURs) in China
 ![Polycentric Urban Regions (PURs) in China](/img/PUR_CN.png)
 
-PUR|Full Name|Major Cities|Area (in 10,000 km^2^)
----|---------|------------|------
+PUR|Full Name|Major Cities|Area*
+---|---------|------------|----
 BTH|Beijing-Tianjin-Hebei|Beijing, Tianjin|18.27
 CSX|Central Shanxi|Taiyuan|2.79
 CIM|Central Inner Mongolia|Hohhot|13.19
@@ -72,6 +72,8 @@ GZP|Guanzhong Plain|Xi’an|5.54
 LAX|Lanzhou-Xining|Lanzhou, Xining|6.85
 NNX|Northern Ningxia|Yinchuan|4.07
 TSM|Tianshan Mountains|Urumqi|9.56
+^*^ in 10,000 km^2^
+***
 
 - A typology of Chinese PURs is presented based on the average **intra-urban** polycentricity and **inter-urban** polycentricity, where there is only **limited** levels of association between inter-urban and inter-urban polycentricity.
 ![scatter](/img/epb2017_scatter.png)
