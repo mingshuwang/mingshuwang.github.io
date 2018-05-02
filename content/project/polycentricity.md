@@ -6,7 +6,7 @@ date = 2016-03-27T00:00:00
 title = "How Polycentric is Urban China?"
 
 # Project summary to display on homepage.
-summary = "We quantified the degree of polycentric urban development at both **intra-urban** and **inter-urban** levels in China with [LandScan^TM^](https://landscan.ornl.gov/) products."
+summary = "We quantified the degree of polycentric urban development at both **intra-urban** and **inter-urban** levels in China with the U.S. Oak Ridge National Laboratory (ORNL)'s [LandScan](https://landscan.ornl.gov/) dataset."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "PUR_CN.png"
