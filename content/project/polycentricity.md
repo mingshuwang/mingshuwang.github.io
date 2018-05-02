@@ -29,25 +29,28 @@ Despite much insightful work on polycentric urban development in China, there is
 
 
 
-### Chinese cities at prefecture level and above
+##### Chinese cities at prefecture level and above
 ![Chinese cities at prefecture level and above.](/img/LAND2016.jpg)
 
 - Over 90% of cities have four or fewer intra-urban (sub)centers.
-![Chinese cities at prefecture level and above.](/img/land2016_N.png)
+![hist_N](/img/land2016_N.png)
 
-- Higher degree of polycentricity is found in mountainous cities.
+- Higher degree of polycentricity is found in **mountainous** cities.
 
 - Polycentricity is positively associated with GDP per capita in **Eastern** China.
 
-- Identified patterns of centers in a number of cities are largely consistent with corresponding master plans.
-![](/img/land2016_sh.png)
+- Identified patterns of centers in a number of cities are largely consistent with corresponding master plans, for example, Shanghai and Beijing.
+![shanghai](/img/land2016_sh.png)
+![beijing](/img/land2016_bj.png)
 
 
-
-## Polycentric Urban Regions (PURs) in China
+##### Polycentric Urban Regions (PURs) in China
 ![Polycentric Urban Regions (PURs) in China](/img/PUR_CN.png)
 
 - A typology of Chinese PURs is presented based on the average **intra-urban** polycentricity and **inter-urban** polycentricity, where there is only **limited** levels of association between inter-urban and inter-urban polycentricity.
+![scatter](/img/epb2017_scatter.png)
+
+
 - The Pearl River Delta and Yangtze River Delta have high levels of both **intra-urban** and **inter-urban** polycentricity.
 - Most PURs in Central and Western China are characterized by a
 primate urban system and low levels of inter-urban polycentricity.
