@@ -40,7 +40,7 @@ Despite much insightful work on polycentric urban development in China, there is
 - Polycentricity is positively associated with GDP per capita in **Eastern** China.
 
 - Identified patterns of centers in a number of cities are largely consistent with corresponding master plans.
-
+![](/img/land2016_sh.png)
 
 
 
