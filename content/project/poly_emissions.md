@@ -23,12 +23,7 @@ external_link = ""
 math = false
 
 +++
-since 2007, China has become the nation with the highest amount of CO<sub>2</sub>>2 emissions. 
-
-
-
-- AAAAAAAA
-
+Since 2007, China has become the nation with the highest amount of CO<sub>2</sub> emissions. 
 
 
 ***
@@ -41,6 +36,7 @@ EDGAR|1970--2012|0.1° × 0.1°|Global|
 FFDAS|1997--2011|0.1° × 0.1°|Global|
 CHRED|2007,2012|10 km × 10 km,1 k m× 1 km|China
 
+***
 
 - We compared against energy census data from the National Bureau of Statistics of China (NBSC) at the province level.
 ![Province R](/img/jcp2017_prov_R.png)
