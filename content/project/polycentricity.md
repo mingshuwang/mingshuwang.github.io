@@ -27,7 +27,7 @@ math = false
 
 Despite much insightful work on polycentric urban development in China, there is a lack of systematic comparison at either scale. Therefore, in this project, we identified polycentric urban structure and quantified the degree of polycentricity in China at both **intra-urban** scale (i.e., [318 Chinese cities]({{< ref "publication/land2016.md" >}})) and **inter-urban** scale (i.e., [22 City-Regions]({{< ref "publication/epb2017.md" >}})) using detailed gridded population data, [U.S. Oak Ridge National Laboratory (ORNL)'s LandScan](https://landscan.ornl.gov/) dataset.
 
-
+***
 
 ##### Intra-urban Polycentricity
 ![Chinese cities at prefecture level and above.](/img/LAND2016.jpg)
@@ -44,8 +44,9 @@ Chinese cities at prefecture level and above.
 ![shanghai](/img/land2016_sh.png)
 ![beijing](/img/land2016_bj.png)
 
+***
 
-##### Polycentric Urban Regions (PURs) in China
+##### Inter-urban Polycentricity: Polycentric Urban Regions (PURs)
 ![Polycentric Urban Regions (PURs) in China](/img/PUR_CN.png)
 
 PUR|Full Name|Major Cities|Area*
@@ -72,7 +73,8 @@ GZP|Guanzhong Plain|Xi’an|5.54
 LAX|Lanzhou-Xining|Lanzhou, Xining|6.85
 NNX|Northern Ningxia|Yinchuan|4.07
 TSM|Tianshan Mountains|Urumqi|9.56
-^*^ in 10,000 km^2^
+* in 10,000 sq. km
+
 ***
 
 - A typology of Chinese PURs is presented based on the average **intra-urban** polycentricity and **inter-urban** polycentricity, where there is only **limited** levels of association between inter-urban and inter-urban polycentricity.
@@ -87,5 +89,5 @@ TSM|Tianshan Mountains|Urumqi|9.56
 primate urban system and low levels of inter-urban polycentricity, for example, the Central Guizhou (CGZ) PUR:
 ![CGZ](/img/epb2017_cgz.png)
 
- 
+***
 
