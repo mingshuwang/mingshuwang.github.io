@@ -73,7 +73,7 @@ GZP|Guanzhong Plain|Xi’an|5.54
 LAX|Lanzhou-Xining|Lanzhou, Xining|6.85
 NNX|Northern Ningxia|Yinchuan|4.07
 TSM|Tianshan Mountains|Urumqi|9.56
-* in 10,000 sq. km
+*Area is in 10,000 sq. km*
 
 ***
 
@@ -90,4 +90,9 @@ primate urban system and low levels of inter-urban polycentricity, for example, 
 ![CGZ](/img/epb2017_cgz.png)
 
 ***
+
+##### References
+* Xingjian Liu, & **Mingshu Wang** (2016).[How polycentric is urban China and why? A case study of 318 cities.]({{< ref "publication/land2016.md" >}}) *Landscape and Urban Planning*, *151*, 10-20 (equal contribution, co-first author).
+* Xingjian Liu, Ben Derudder, **Mingshu Wang** (2017) [Polycentric urban development in China: A multi-scale analysis.]({{< ref "publication/epb2017.md" >}}) *Environment and Planning B: Urban Analytics and City Science*, [DOI](https://doi.org/10.1177/2399808317690155).
+
 
