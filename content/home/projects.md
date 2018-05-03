@@ -56,5 +56,8 @@ filter_default = 0
    name = "Ride-sharing"
    tag = ".ride-sharing"
 
+[[filter]]
+   name = "Bike-sharing"
+   tag = ".bike-sharing"
 +++
 
