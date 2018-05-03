@@ -42,11 +42,11 @@ filter_default = 0
 
 [[filter]]
    name = "China"
-   tag = ".cn"
+   tag = ".China"
 
 [[filter]]
    name = "United States"
-   tag = ".us"   
+   tag = ".United_States"
 
 
 

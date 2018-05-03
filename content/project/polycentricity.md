@@ -14,7 +14,7 @@ image_preview = "PUR_CN.png"
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 
-tags = ["polycentric_urban_development","cn"]
+tags = ["polycentric_urban_development","China"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
