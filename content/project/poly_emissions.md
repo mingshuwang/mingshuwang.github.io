@@ -48,15 +48,16 @@ CHRED|2007, 2012|10 km × 10 km, 1 km× 1 km|China
 
 ***
 
-- Correlation coefficient (Pearson's *r*) at province level:
+- Correlation coefficient (Pearson's *r*) at province level (Obs.=30):
 ![Province R](/img/jcp2017_prov_R.png)
 *NBSC = energy census data from the National Bureau of Statistics of China, N = 30*
 
-- Correlation coefficient (Pearson's *r*) at prefecture city level:
+- Correlation coefficient (Pearson's *r*) at prefecture city level (Obs.=340):
 ![Prefecture R](/img/jcp2017_pre_R.png)
-*N = 340*
+
 
 ***
 
+##### Urban Forms VS CO<sub>2</sub> emissions
 
 
