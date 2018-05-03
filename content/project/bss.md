@@ -33,7 +33,7 @@ Although the explicit goals of the introduction of individual BSSs may be differ
 
 ##### Bike-sharing Systems (BSSs) VS Congestion
 
-With a panel dataset of 96 urban areas in the US from 2005 to 2014, we employed a difference-in-differences (DID) model with two-way fixed-effects panel regression.
+With a panel dataset of 96 urban areas in the US from 2005 to 2014, we employed a difference-in-differences (DID) model with two-way fixed-effects panel regression with propensity score matching (PSM).
 
 **Findings**:
 
@@ -43,7 +43,7 @@ With a panel dataset of 96 urban areas in the US from 2005 to 2014, we employed 
 
 
 Bike-sharing systems (BSSs) in US urban areas (2005–2014)
-![cues2018](/img/cues2018.png)
+![cues2018](/img/JTG2017.jpg)
 
 ***
 
