@@ -52,5 +52,9 @@ filter_default = 0
    name = "Smart Card"
    tag = ".Smart_Card"
 
+[[filter]]
+   name = "Ride-sharing"
+   tag = ".ride-sharing"
+
 +++
 
