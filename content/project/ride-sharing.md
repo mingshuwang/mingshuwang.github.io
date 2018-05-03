@@ -6,7 +6,7 @@ date = 2018-01-15T00:00:00
 title = "Ride-sharing Accessibility"
 
 # Project summary to display on homepage.
-summary = "Disparities of accessibility in transportation systems is a constant concern, which is intensified by the transportation economization process and the digital divide. How should we measure and understand the accessibility of ride-sharing systems?"
+summary = "In the past decades, there has been a resurgence of public bike-sharing systems (BSSs). While it is claimed that social and environmental benefits are associated with the implementation of BSSs, few empirical studies have investigated the actual effects of BSSs on cities."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "uber_ATL.png"
@@ -40,7 +40,7 @@ We applied spatial regression models to explore empirical relationships between 
 
 
 The average wait times (left) and the standard deviation of wait times (right) for UberX:
-![Province R](/img/cues2018.png)
+![cues2018](/img/cues2018.png)
 
 
 ***
