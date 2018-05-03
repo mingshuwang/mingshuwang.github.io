@@ -92,5 +92,5 @@ primate urban system and low levels of inter-urban polycentricity, for example, 
 ***
 
 ##### References
-* Xingjian Liu, **Mingshu Wang** (2016).[How polycentric is urban China and why? A case study of 318 cities.]({{< ref "publication/land2016.md" >}}) *Landscape and Urban Planning*, *151*, 10-20 (equal contribution, co-first author).
-* Xingjian Liu, Ben Derudder, **Mingshu Wang** (2017) [Polycentric urban development in China: A multi-scale analysis.]({{< ref "publication/epb2017.md" >}}) *Environment and Planning B: Urban Analytics and City Science*, [DOI](https://doi.org/10.1177/2399808317690155).
+- Xingjian Liu, **Mingshu Wang**. (2016).[How polycentric is urban China and why? A case study of 318 cities.]({{< ref "publication/land2016.md" >}}) *Landscape and Urban Planning*, *151*, 10-20 (equal contribution, co-first author).
+- Xingjian Liu, Ben Derudder, **Mingshu Wang**. (2017). [Polycentric urban development in China: A multi-scale analysis.]({{< ref "publication/epb2017.md" >}}) *Environment and Planning B: Urban Analytics and City Science*, [DOI](https://doi.org/10.1177/2399808317690155).
