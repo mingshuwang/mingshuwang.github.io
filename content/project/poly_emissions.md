@@ -35,7 +35,7 @@ Since the late 1990s, research has highlighted the role of urban forms, includin
 
 ##### Carbon Emission Data for China
 
-There are three gridded CO<sub>2</sub> datasets available for China, namely the Emission Database for Global Atmospheric Research ([EDGAR](http://edgar.jrc.ec.europa.eu/)), the Fossil Fuel Data Assimilation System ([FFDAS](http://www.gurneylab.org/portfolio-item/ffdas/)), and the China High Resolution Emission Gridded Data ([CHRED](http://www.cityghg.com/)).
+There are three gridded CO<sub>2</sub> datasets available for China, namely the Emission Database for Global Atmospheric Research ([EDGAR](http://edgar.jrc.ec.europa.eu/)), the Fossil Fuel Data Assimilation System ([FFDAS](http://www.gurneylab.org/portfolio-item/ffdas/)), and the China High Resolution Emission Gridded Data ([CHRED](http://www.cityghg.com/)). Additionally, National Bureau of Statistics of China (NBSC) provides energy statistics at province level.
 
 Data|Temporal Span|Spatial Resolution|Spatial Coverage
 ----|-------------|------------------|----------------
@@ -48,11 +48,10 @@ CHRED|2007, 2012|10 km × 10 km, 1 km× 1 km|China
 
 ***
 
-- Correlation coefficient (Pearson's *r*) at province level (Obs.=30):
+- Correlation coefficient (Pearson's *r*) at province level (N=30):
 ![Province R](/img/jcp2017_prov_R.png)
-*NBSC = energy census data from the National Bureau of Statistics of China, N = 30*
 
-- Correlation coefficient (Pearson's *r*) at prefecture city level (Obs.=340):
+- Correlation coefficient (Pearson's *r*) at prefecture city level (N=340):
 ![Prefecture R](/img/jcp2017_pre_R.png)
 
 
@@ -60,4 +59,25 @@ CHRED|2007, 2012|10 km × 10 km, 1 km× 1 km|China
 
 ##### Urban Forms VS CO<sub>2</sub> emissions
 
+- Conceptualization of **compactness**
+    + *A* = the area of the gray square (rectangle); *A'* = the area of the dotted circle
+    + More compact (a) and Less compact (b) urban form
+![compactness](/img/jupd2017_compactness.jpg)
 
+- Conceptualization of **polycentricity**
+    + each solid circle refers to a subdivision of a city; the relative area of the circle denotes the relative population size of that subdivision
+    + A less polycentric urban systems (a) and a more polycentric urban systems (b)
+![polycentricity](/img/jupd2017_poly.jpg)
+
+Results
+1. **Polycentric** urban form is associated with **more** CO<sub>2</sub> emissions.
+2. **Compact** urban form is associated with **less** CO<sub>2</sub> emissions.
+3. **Larger** cities are more energy efficient (~ 11% saving)
+4. There is a substantial **Wealth effects** on carbon emissions.
+
+
+***
+
+##### References
+- **Mingshu Wang**, Marguerite Madden, Xingjian Liu. (2017).[Exploring the Relationship between Urban Forms and CO2 Emissions in 104 Chinese Cities.]({{< ref "publication/jupd2017.md">}}) *Journal of Urban Planning and Development*, *4*, 04017014.
+- **Mingshu Wang**, Bofeng Cai. (2017). [A two-level comparison of CO2 emission data in China: Evidence from three gridded data sources]({{< ref "publication/jcp2017.md">}}) *Journal of Cleaner Production*, *148*, 194-201.
