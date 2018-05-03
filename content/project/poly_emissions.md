@@ -27,14 +27,16 @@ Since 2007, China has become the nation with the highest amount of CO<sub>2</sub
 
 
 ***
-###### Carbon Emission Data for China
+
+##### Carbon Emission Data for China
+
 There are three gridded carbon emissions datasets available for China, namely the Emission Database for Global Atmospheric Research ([EDGAR](http://edgar.jrc.ec.europa.eu/)), the Fossil Fuel Data Assimilation System ([FFDAS](http://www.gurneylab.org/portfolio-item/ffdas/)), and the China High Resolution Emission Gridded Data ([CHRED](http://www.cityghg.com/)).
 
 Data|Temporal Span|Spatial Resolution|Spatial Coverage
 ----|-------------|------------------|----------------
 EDGAR|1970--2012|0.1° × 0.1°|Global|
 FFDAS|1997--2011|0.1° × 0.1°|Global|
-CHRED|2007,2012|10 km × 10 km,1 k m× 1 km|China
+CHRED|2007, 2012|10 km × 10 km, 1 km× 1 km|China
 
 ***
 
