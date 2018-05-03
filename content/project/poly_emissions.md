@@ -28,14 +28,14 @@ adopted advancing the development of low-carbon cities. More recently, at the 4t
 
 Although existing GHG emission reduction strategies rely on technological solutions (e.g., renewable energy and zero-carbon buildings) and market-based approaches (e.g., carbon trading), they are oftentimes unable to reach carbon reduction goals by themselves. Similarly, smart city initiatives call for an integrated approach to sustainability, emphasizing the idea that **technology is not enough"**. Indeed, a growing body of literature has identified that **urban forms** can be used as a supplementary emission reduction strategy.
 
-Since the late 1990s, research has highlighted the role of urban forms, including **polycentric** urban form and **compact** urban form, in fostering sustainable development. Therefore, in this project, we explored the relationship between urban forms (e.g., **polycentricity**, **compactness**, size, wealth, density) and CO<sub>2</sub> emissions in over 100 Chinese cities based on multi-sourced data.
+Since the late 1990s, research has highlighted the role of urban forms, including **polycentric** urban form and **compact** urban form, in fostering sustainable development. Therefore, in this project, we explored the relationship between urban forms (e.g., **polycentricity**, **compactness**, size, wealth, density) and CO<sub>2</sub> emissions in over 100 Chinese cities based on multi-sourced data. Before empiricallytesting any relatioship, we had to find data for/in China.
 
 
 ***
 
 ##### Carbon Emission Data for China
 
-There are three gridded carbon emissions datasets available for China, namely the Emission Database for Global Atmospheric Research ([EDGAR](http://edgar.jrc.ec.europa.eu/)), the Fossil Fuel Data Assimilation System ([FFDAS](http://www.gurneylab.org/portfolio-item/ffdas/)), and the China High Resolution Emission Gridded Data ([CHRED](http://www.cityghg.com/)).
+There are three gridded CO<sub>2</sub> datasets available for China, namely the Emission Database for Global Atmospheric Research ([EDGAR](http://edgar.jrc.ec.europa.eu/)), the Fossil Fuel Data Assimilation System ([FFDAS](http://www.gurneylab.org/portfolio-item/ffdas/)), and the China High Resolution Emission Gridded Data ([CHRED](http://www.cityghg.com/)).
 
 Data|Temporal Span|Spatial Resolution|Spatial Coverage
 ----|-------------|------------------|----------------
@@ -43,13 +43,20 @@ EDGAR|1970--2012|0.1° × 0.1°|Global|
 FFDAS|1997--2011|0.1° × 0.1°|Global|
 CHRED|2007, 2012|10 km × 10 km, 1 km× 1 km|China
 
+![Province R](/img/jcp2017.png)
+*Three gridded CO<sub>2</sub> datasets of China, in 2007*
+
 ***
 
-- We compared against energy census data from the National Bureau of Statistics of China (NBSC) at the province level.
+- Correlation coefficient (Pearson's *r*) at province level:
 ![Province R](/img/jcp2017_prov_R.png)
+*NBSC = energy census data from the National Bureau of Statistics of China, N = 30*
 
-
-- EDGAR and FFDAS are compared with CHRED at the prefectural level.
-
-
+- Correlation coefficient (Pearson's *r*) at prefecture city level:
 ![Prefecture R](/img/jcp2017_pre_R.png)
+*N = 340*
+
+***
+
+
+
