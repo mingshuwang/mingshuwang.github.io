@@ -48,7 +48,9 @@ filter_default = 0
    name = "United States"
    tag = ".United_States"
 
-
+[[filter]]
+   name = "Smart Card"
+   tag = ".Smart_Card"
 
 +++
 

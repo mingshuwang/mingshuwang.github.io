@@ -73,7 +73,7 @@ CHRED|2007, 2012|10 km × 10 km, 1 km× 1 km|China
     + **Polycentric** urban form is associated with **more** CO<sub>2</sub> emissions.
     + **Compact** urban form is associated with **less** CO<sub>2</sub> emissions.
     + **Larger** cities are more energy efficient (economies of scale).
-    + There is a substantial **Wealth effects** on carbon emissions.
+    + There is a substantial **wealth effects** on carbon emissions.
 
 ***
 
