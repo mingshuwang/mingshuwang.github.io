@@ -33,6 +33,7 @@ How should we measure and understand the accessibility of ICT-enabled transporta
 We applied spatial regression models to explore empirical relationships between socioeconomic disparities and Uber accessibility.
 
 **Findings**:
+
 - **Wealth** or **race** does not have significant associations with Uber accessibility.
 - Higher **road network density**, **population density**, and **less commuting time to work** correlate with greater Uber accessibility.
 - More **public transport stops** are related to better accessibility of UberX but worse accessibility of UberBLACK.
