@@ -23,7 +23,12 @@ external_link = ""
 math = false
 
 +++
-Since 2007, China has become the nation with the highest amount of CO<sub>2</sub> emissions. 
+Since 2007, China has become the nation with the highest amount of CO<sub>2</sub> emissions. Aiming at contributing to the global emission reduction goals while sustaining the country’s economic development, the Chinese government has
+adopted advancing the development of low-carbon cities. More recently, at the 4th Central Government Urban Conference (2015), China’s leadership reiterated the importance of the pursuit of **compact, efficient, and environmentally friendly urban development**.
+
+Although existing GHG emission reduction strategies rely on technological solutions (e.g., renewable energy and zero-carbon buildings) and market-based approaches (e.g., carbon trading), they are oftentimes unable to reach carbon reduction goals by themselves. Similarly, smart city initiatives call for an integrated approach to sustainability, emphasizing the idea that **technology is not enough"**. Indeed, a growing body of literature has identified that **urban forms** can be used as a supplementary emission reduction strategy.
+
+Since the late 1990s, research has highlighted the role of urban forms, including **polycentric** urban form and **compact** urban form, in fostering sustainable development. Therefore, in this project, we explored the relationship between urban forms (e.g., **polycentricity**, **compactness**, size, wealth, density) and CO<sub>2</sub> emissions in over 100 Chinese cities based on multi-sourced data.
 
 
 ***
