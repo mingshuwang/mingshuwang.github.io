@@ -14,7 +14,7 @@ image_preview = "rsrs2016_od.png"
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 
-tags = ["Smart_Card","China","polycentric_urban_development","urban_mobilities"]
+tags = ["China","polycentric_urban_development","urban_mobilities"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

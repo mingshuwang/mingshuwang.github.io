@@ -14,7 +14,7 @@ image_preview = "JTG2017.jpg"
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 
-tags = ["urban_mobilities","United_States","bike-sharing"]
+tags = ["urban_mobilities","United_States"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = {{< ref "project/bss.md" >}}

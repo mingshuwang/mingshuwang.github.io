@@ -3,18 +3,18 @@
 date = 2017-01-01T00:00:00
 
 # Project title.
-title = "Play2Stay"
+title = "Plan Your City Trip based on User-generated Contents"
 
 # Project summary to display on homepage.
-summary = "We quantified the degree of polycentric urban development at both **intra-urban** and **inter-urban** levels in China with the U.S. Oak Ridge National Laboratory (ORNL)'s [LandScan](https://landscan.ornl.gov/) dataset."
+summary = "This project proposes a travel planner for city trips by integrating multiple crowdcoursed user-generated contents to provide cutomized information for tourists. We harvested hotel reviews from [TripAdvisor](https://www.tripadvisor.com), photos from [Flickr](https://www.flickr.com), and travel costs from [Uber](https://www.uber.com)."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "PUR_CN.png"
+image_preview = "ag2017_recommendation.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 
-tags = ["urban_mobilities","United_States","ride-sharing"]
+tags = ["urban_mobilities","United_States"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -23,9 +23,11 @@ external_link = ""
 math = false
 
 +++
-**Polycentric urban development** refers to different forces causing multiple previously close-by but independent urban sub-divisions to become a larger and more integrated **urban system**. **Polycentricity** is oftentimes deemed a desirable urban form, generating greater agglomeration externalities as well as facilitating the achievement of social, economic, and environmental goals. Polycentric urban development has been observed and analyzed at various geographical scales, including the **intra-urban** (e.g., Central Business Districts (CBDs), edge cities, and satellite towns within a city), and **inter-urban** (e.g., the ‘Pearl River Delta’ mega-city region) scales.
+Customers rely on online user-generated contents (UGC) to make purchase decisions for travels. Travelers tend to seek advice from ratings and reviews prior to booking accommodations. Hotel managers utilize UGC to predict different facets of business performance and web traffic volume to predict hotel demand.
 
-Despite much insightful work on polycentric urban development in China, there is a lack of systematic comparison at either scale. Therefore, in this project, we identified polycentric urban structure and quantified the degree of polycentricity in China at both **intra-urban** scale (i.e., [318 Chinese cities]({{< ref "publication/land2016.md" >}})) and **inter-urban** scale (i.e., [22 City-Regions]({{< ref "publication/epb2017.md" >}})) using detailed gridded population data, [U.S. Oak Ridge National Laboratory (ORNL)'s LandScan](https://landscan.ornl.gov/) dataset.
+While a number of tourism websites provide information about destinations, accommodation and route selection, integrating and comparing different types of information from many contributors require significant time and effort. The number of choices makes it very difficult for consumers to find what they are looking for. Most tourists usually seek for information in three aspects before their travels: **hotels to stay in**, **places to visit**, and **routes that connect hotels and attractions**.
+
+We aim to develop a geospatial analytical tool to assist decision-making in city-tour planning. We identified multidimensional characteristics of hotels from [TripAdvisor](https://www.tripadvisor.com) with natural language processing (NLP), extracted tourist hotspots from [Flickr](https://www.flickr.com) images with geospatial data mining techniques, and recommended travel routes and sequences based on [Uber](https://www.uber.com) with graph analysis.
 
 ***
 
