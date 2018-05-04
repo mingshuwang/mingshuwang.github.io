@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = 2018-04-01T00:00:00
+date = 2017-04-01T00:00:00
 
 # Project title.
 title = "Plan Your City Trip based on User-generated Contents"
@@ -37,7 +37,7 @@ Many products and services offered by hotels are intangible, which leads to info
 
 What customers write (i.e., the **contents**) and how customers write (i.e., the **linguistic style**) signal their satisfaction or dissatisfaction with hotel product and service attributes. It also serves as an indirect communication approach to hotel managers and future customers about the perceptions of their hotel stay.
 
-While most studies only focus on numeric review ratings (e.g., rating scores or review volume) and/or sentiment analysis of the review content, we first investigated the role of [**linguistic style**]({{< ref "publication/ijhm2018.md" >}}) of review contents in predicting customers' satisfaction.
+While most studies only focus on numeric review ratings (e.g., rating scores or review volume) and/or sentiment analysis of the review content, we first investigated the role of **linguistic style** of review contents in predicting customers' satisfaction.
 
 - **Findings**:
     + Higher **subjectivity** <-> lower satisfaction
@@ -86,10 +86,10 @@ To simplify the model, we used average Uber cost to recommend travel sequences t
 ![ag2017_simulation](/img/ag2017_simulation.jpg)
 
 
-
-
 ***
 
 ##### References
-- Xingjian Liu, **Mingshu Wang**. (2016).[How polycentric is urban China and why? A case study of 318 cities.]({{< ref "publication/land2016.md" >}}) *Landscape and Urban Planning*, *151*, 10-20 (equal contribution, co-first author).
-- Xingjian Liu, Ben Derudder, **Mingshu Wang**. (2017). [Polycentric urban development in China: A multi-scale analysis.]({{< ref "publication/epb2017.md" >}}) *Environment and Planning B: Urban Analytics and City Science*, [DOI](https://doi.org/10.1177/2399808317690155).
+- Yabing Zhao, Xun Xu, **Mingshu Wang**. (2018).[Predicting overall customer satisfaction: Big data evidence from hotel online textual reviews]({{< ref "publication/ijhm2018.md" >}}) *International Journal of Hospitality Management*, (In Press).
+- Dongying Li, Xiaolu Zhou, **Mingshu Wang**. (2018). [Analyzing and visualizing the spatial interactions between tourists and locals: A Flickr study in ten US cities.]({{< ref "publication/cities2018.md" >}}) *Cities*, *74*, 249-258.
+- Xiaolu Zhou, **Mingshu Wang**, Dongying Li. (2017). [From stay to play – A travel planning tool based on crowdsourcing user-generated contents.]({{< ref "publication/ag2017.md" >}}) *Applied Geography*, *78*, 1-11.
+- **Mingshu Wang**, Xiaolu Zhou. (2016). [Geography matters in online hotel reviews.]({{< ref "publication/isprsa2016.md" >}}) *ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, *XLI-B2*, 573-576.

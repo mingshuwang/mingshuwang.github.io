@@ -17,8 +17,8 @@ authors = ["**Mingshu Wang**", "Xiaolu Zhou"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = " *ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, *XLI-B2*, 573-576"
-publication_short = " *ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, *XLI-B2*, 573-576"
+publication = "*ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, *XLI-B2*, 573-576"
+publication_short = "*ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, *XLI-B2*, 573-576"
 
 # Abstract and optional shortened version.
 abstract = "In resonance with the popularity of user-generated contents (UGC) and the volunteered geographic information (VGI), this study crowdsourced 77,098 hotel reviews of 220 hotels provided by U.S. reviewers in the city of San Francisco, 2002 to 2015. In this exploratory analysis, we have revealed that there is spatial dependence of customer satisfaction at different locations (of hotels), which violates the assumption that ordinary least-square (OLS) is the best linear unbiased estimator (BLUE); therefore, spatial model might be required for analysing any antecedents and consequences of such phenomena. These results have implications in marketing and management strategies."
