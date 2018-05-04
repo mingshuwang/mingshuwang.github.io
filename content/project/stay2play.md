@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = 2017-01-01T00:00:00
+date = 2018-04-01T00:00:00
 
 # Project title.
 title = "Plan Your City Trip based on User-generated Contents"
@@ -39,7 +39,7 @@ What customers write (i.e., the **contents**) and how customers write (i.e., the
 
 While most studies only focus on numeric review ratings (e.g., rating scores or review volume) and/or sentiment analysis of the review content, we first investigated the role of [**linguistic style**]({{< ref "publication/ijhm2018.md" >}}) of review contents in predicting customers' satisfaction.
 
-- Findings:
+- **Findings**:
     + Higher **subjectivity** <-> lower satisfaction
     + Higher **readability** (Gunning Fog Index) <-> lower satisfaction
     + Longer **length** of textual review <-> lower satisfaction
@@ -51,38 +51,16 @@ Then, we extracted multidimensional hotel information from review contents based
 
 ![ag2017_nlp](/img/ag2017_nlp.jpg)
 
-
-
 ***
 
 ##### Where to Play? --Geospatial Data Mining from Flickr
-![Polycentric Urban Regions (PURs) in China](/img/PUR_CN.png)
 
-PUR|Full Name|Major Cities|Area*
----|---------|------------|----
-BTH|Beijing-Tianjin-Hebei|Beijing, Tianjin|18.27
-CSX|Central Shanxi|Taiyuan|2.79
-CIM|Central Inner Mongolia|Hohhot|13.19
-LDP|Liaodong Peninsula|Shenyang, Dalian|12.76
-HAC|Harbin-Changchun|Harbin, Changchun|18.53
-YRD|Yangtze River Delta|Shanghai, Nanjing, Hangzhou|10.05
-CAH|Central Anhui|Hefei|8.63
-EFJ|Eastern Fujian|Fuzhou, Xiamen (Amoy)|5.5
-NJX|Northern Jiangxi|Nanchang|5.78
-SDP|Shandong Peninsula|Jinan, Qingdao (Tsingtao)|7.39
-CPL|Central Plain|Zhengzhou|5.68
-EHB|Eastern Hubei|Wuhan|5.09
-EHN|Eastern Hunan|Changsha|2.81
-PRD|Pearl River Delta|Guangzhou, Shenzhen|5.47
-SGX|Southern Guangxi|Nanning|4.26
-CHC|Chengdu-Chongqing|Chengdu, Chongqing|26.65
-CGZ|Central Guizhou|Guiyang|10.46
-CYN|Central Yunnan|Kunming|9.45
-GZP|Guanzhong Plain|Xi’an|5.54
-LAX|Lanzhou-Xining|Lanzhou, Xining|6.85
-NNX|Northern Ningxia|Yinchuan|4.07
-TSM|Tianshan Mountains|Urumqi|9.56
-*Area is in 10,000 sq. km*
+Urban tourist destinations are increasingly interwoven into residents' living space, leading to socio-spatial interactions between **tourists** and **locals**. These sociospatial interactions between tourists and residents have significant implications for planning, especially in cities popular with tourists. Importantly, the mix of locals and visitors at the city and the neighborhood scales and such chance encounters may influence peoples' experience. With geo-tagged Flickr images, we first mapped the spatial distribution of tourists and locals in ten US cities:
+
+![cities2018_flickr](/img/cities2018_flickr.png)
+
+
+
 
 ***
 
