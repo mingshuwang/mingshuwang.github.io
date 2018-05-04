@@ -39,6 +39,7 @@ projects = []
 
 # Links (optional).
 url_source = "https://www.jstage.jst.go.jp/article/irspsd/5/3/5_100/_article"
+url_pdf = "https://outlookuga-my.sharepoint.com/:b:/g/personal/mswang_uga_edu/ESdms-FS1YBCiLCuEY01E3IBE-SEC5wqw7S51bJueOOVLQ"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"

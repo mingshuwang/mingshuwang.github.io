@@ -39,6 +39,7 @@ projects = []
 
 # Links (optional).
 url_source = "http://www.mdpi.com/1660-4601/12/2/1069"
+url_pdf = "https://outlookuga-my.sharepoint.com/:b:/g/personal/mswang_uga_edu/EWKYMXD34nlEvmwyGt3X6ksBLQszAw0MKB4lYFdOVeu5VA"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"

@@ -39,6 +39,7 @@ projects = []
 
 # Links (optional).
 url_source = "http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B2/573/2016/"
+url_pdf = "https://outlookuga-my.sharepoint.com/:b:/g/personal/mswang_uga_edu/EfZTBZnf9tBDn2yLvzPQGAYBdQ9KZp0L8WC8GJspGCkISg"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"

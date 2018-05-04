@@ -39,6 +39,7 @@ projects = []
 
 # Links (optional).
 url_source = "http://epn.sagepub.com/content/48/3/455.short"
+url_pdf = "https://outlookuga-my.sharepoint.com/:b:/g/personal/mswang_uga_edu/EU5S3X_iRmlIppwW7iTCgZUBoWZVuLbyajB7E3MFOfXDNQ"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
