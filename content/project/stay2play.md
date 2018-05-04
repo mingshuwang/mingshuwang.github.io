@@ -61,23 +61,26 @@ Urban tourist destinations are increasingly interwoven into residents' living sp
 Second, we generated location-based tag cloud for tourists and residents. In the location-based tag cloud, the size of the labels denotes the relative frequencies of the keyword at the particular location in Flickr. Orange represents more tourists and green represents more locals:
 ![cities2018_tag](/img/cities2018_tag.png)
 
-Finally, we integrated the textual tags, the geographic locations, and the timestamps of Flickr to delineate the potential locations of tourist hotspots and rank the popularitiy of those hotspots.
-
+Finally, we integrated the textual tags, the geographic locations, and the timestamps of Flickr to delineate the **potential locations** of tourist hotspots and rank the **popularitiy** of those hotspots.
 
 
 ***
 
-- A typology of Chinese PURs is presented based on the average **intra-urban** polycentricity and **inter-urban** polycentricity, where there is only **limited** levels of association between inter-urban and inter-urban polycentricity.
-![scatter](/img/epb2017_scatter.png)
+##### What is the OPTIMAL Route Connecting Tourist Attractions and Hotels?
+
+To simplify the model, we used average Uber cost to recommend travel sequences that connect attractions and hotels based on heuristically minimized travel cost. 
+
+- System Inputs:
+    + Hotel: Customer's weight (0 to 100) on the seven quality dimensions
+    + Tourist Spots: Our recommendation based on polularity OR self-selected spots
+    + The maximum distance a customer would like to walk
+    + The number of days a customer would like to span in the city
+![ag2017_gui](/img/ag2017_gui.png)
 
 
-- The **Yangtze River Delta** (see below) and **Pearl River Delta** have high levels of both **intra-urban** and **inter-urban** polycentricity.
-![YRD](/img/epb2017_yrd.png)
 
 
-- Most PURs in **Central** and **Western** China are characterized by a
-primate urban system and low levels of inter-urban polycentricity, for example, the Central Guizhou (CGZ) PUR:
-![CGZ](/img/epb2017_cgz.png)
+
 
 ***
 
