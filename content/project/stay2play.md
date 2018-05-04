@@ -9,7 +9,7 @@ title = "Plan Your City Trip based on User-generated Contents"
 summary = "This project proposes a travel planner for city trips by integrating multiple crowdcoursed user-generated contents to provide cutomized information for tourists. We harvested hotel reviews from [TripAdvisor](https://www.tripadvisor.com), photos from [Flickr](https://www.flickr.com), and travel costs from [Uber](https://www.uber.com)."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "ag2017_recommendation.jpg"
+image_preview = "ag2017_gui.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -31,24 +31,31 @@ We aim to develop a geospatial analytical tool to assist decision-making in city
 
 ***
 
-##### Intra-urban Polycentricity
-![Chinese cities at prefecture level and above.](/img/LAND2016.jpg)
-Chinese cities at prefecture level and above.
+##### Where to Stay? --Natural Language Processing from TripAdvisor Reviews
 
-- Over 90% of cities have four or fewer intra-urban (sub)centers.
-![hist_N](/img/land2016_N.png)
+Many products and services offered by hotels are intangible, which leads to information asymmetry between hotels and customers about the quality of products and services. Signal theory describes the signal behavior between two parties where information asymmetry exists. 
 
-- Higher degree of polycentricity is found in **mountainous** cities.
+What customers write (i.e., the **contents**) and how customers write (i.e., the **linguistic style**) signal their satisfaction or dissatisfaction with hotel product and service attributes. It also serves as an indirect communication approach to hotel managers and future customers about the perceptions of their hotel stay.
 
-- Polycentricity is positively associated with GDP per capita in **Eastern** China.
+While most studies only focus on numeric review ratings (e.g., rating scores or review volume) and/or sentiment analysis of the review content, we first investigated the role of [**linguistic style**]({{< ref "publication/ijhm2018.md" >}}) of review contents in predicting customers' satisfaction.
 
-- Identified patterns of centers in a number of cities are largely consistent with corresponding master plans, for example, Shanghai and Beijing.
-![shanghai](/img/land2016_sh.png)
-![beijing](/img/land2016_bj.png)
+- Findings:
+    + Higher **subjectivity** <-> lower satisfaction
+    + Higher **readability** (Gunning Fog Index) <-> lower satisfaction
+    + Longer **length** of textual review <-> lower satisfaction
+    + Higher **lexical diversity** <-> higher satisfaction
+    + Higher review involvement <-> higher satisfaction
+
+
+Then, we extracted multidimensional hotel information from review contents based on [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/). Adapted from the Criteria for Hotel Operators and Quality Grading (Northernireland Tourist Board, 1982), we summarized the qualities of hotels into seven dimensions (i.e., facilities, bedroom, restroom, service, food, location, and overall). For each hotel, sentiment analysis was applied to all the seven dimensions:
+
+![ag2017_nlp](/img/ag2017_nlp.jpg)
+
+
 
 ***
 
-##### Inter-urban Polycentricity: Polycentric Urban Regions (PURs)
+##### Where to Play? --Geospatial Data Mining from Flickr
 ![Polycentric Urban Regions (PURs) in China](/img/PUR_CN.png)
 
 PUR|Full Name|Major Cities|Area*
