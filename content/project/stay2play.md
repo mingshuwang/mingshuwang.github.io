@@ -55,10 +55,13 @@ Then, we extracted multidimensional hotel information from review contents based
 
 ##### Where to Play? --Geospatial Data Mining from Flickr
 
-Urban tourist destinations are increasingly interwoven into residents' living space, leading to socio-spatial interactions between **tourists** and **locals**. These sociospatial interactions between tourists and residents have significant implications for planning, especially in cities popular with tourists. Importantly, the mix of locals and visitors at the city and the neighborhood scales and such chance encounters may influence peoples' experience. With geo-tagged Flickr images, we first mapped the spatial distribution of tourists and locals in ten US cities:
-
+Urban tourist destinations are increasingly interwoven into residents' living space, leading to socio-spatial interactions between **tourists** and **locals**. These sociospatial interactions between tourists and residents have significant implications for planning, especially in cities popular with tourists. Importantly, the mix of locals and visitors at the city and the neighborhood scales and such chance encounters may influence peoples' experience. With geo-tagged Flickr images, we mapped the spatial distribution of tourists and locals in ten US cities:
 ![cities2018_flickr](/img/cities2018_flickr.png)
 
+Second, we generated location-based tag cloud for tourists and residents. In the location-based tag cloud, the size of the labels denotes the relative frequencies of the keyword at the particular location in Flickr. Orange represents more tourists and green represents more locals:
+![cities2018_tag](/img/cities2018_tag.png)
+
+Finally, we integrated the textual tags, the geographic locations, and the timestamps of Flickr to delineate the potential locations of tourist hotspots and rank the popularitiy of those hotspots.
 
 
 
