@@ -3,7 +3,7 @@
 date = 2017-01-01T00:00:00
 
 # Project title.
-title = "How Polycentric is Urban China?"
+title = "Play2Stay"
 
 # Project summary to display on homepage.
 summary = "We quantified the degree of polycentric urban development at both **intra-urban** and **inter-urban** levels in China with the U.S. Oak Ridge National Laboratory (ORNL)'s [LandScan](https://landscan.ornl.gov/) dataset."
@@ -14,7 +14,7 @@ image_preview = "PUR_CN.png"
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 
-tags = ["polycentric_urban_development","China"]
+tags = ["urban_mobilities","United_States","ride-sharing"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
