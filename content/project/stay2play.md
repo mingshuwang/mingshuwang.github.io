@@ -70,14 +70,20 @@ Finally, we integrated the textual tags, the geographic locations, and the times
 
 To simplify the model, we used average Uber cost to recommend travel sequences that connect attractions and hotels based on heuristically minimized travel cost. 
 
-- System Inputs:
+- **System Inputs**:
     + Hotel: Customer's weight (0 to 100) on the seven quality dimensions
     + Tourist Spots: Our recommendation based on polularity OR self-selected spots
     + The maximum distance a customer would like to walk
     + The number of days a customer would like to span in the city
-![ag2017_gui](/img/ag2017_gui.png)
 
+![ag2017_gui](/img/ag2017_gui.jpg)
 
+- **System Outputs**:
+    + A recommended hotel
+    + A route sequences that connects each spots and the recommended hotel
+    + The estimated transportation cost (based on Uber)
+
+![ag2017_simulation](/img/ag2017_simulation.jpg)
 
 
 
