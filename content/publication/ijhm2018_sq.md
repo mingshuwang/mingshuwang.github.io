@@ -39,7 +39,7 @@ projects = []
 
 # Links (optional).
 url_source = "https://doi.org/10.1016/j.ijhm.2018.05.002"
-#url_pdf = "https://outlookuga-my.sharepoint.com/:b:/g/personal/mswang_uga_edu/EeFIX7igE1ZNpRLiIvoCifQBl11E1B4exOJn7isne5drGQ"
+url_pdf = "https://outlookuga-my.sharepoint.com/:b:/g/personal/mswang_uga_edu/ESQLaVE-k6FPrtDWhqV60MgBW-IzTjEftYLHo1yyz-QCrA"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
