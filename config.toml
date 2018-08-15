@@ -6,7 +6,7 @@
 baseurl = "http://www.mingshuwang.org/"
 
 # Title of your site
-title = "Mingshu Wang"
+title = "Dr. Mingshu Wang"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -54,19 +54,19 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Mingshu Wang"
-  role = "Ph.D. Candidate of GIScience"
+  name = "Dr. Mingshu Wang"
+  role = "Assistant Professor of Geodata Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Georgia", url = "http://geography.uga.edu/directory/people/mingshu-wang" } ]
+  organizations = [ { name = "University of Twente, Faculty ITC", url = "https://www.itc.nl/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "mswang@uga.edu"
-  address = "210 Field St, Rm 204, Athens, GA, 30602, USA"
+  email = "mingshu.wang@utwente.nl"
+  address = "HENGELOSESTRAAT 99, 7514 AE ENSCHEDE, THE NETHERLANDS"
   office_hours = "Email for appointment"
-  phone = "+1-706-542-2374"
+  phone = "+31-534895887"
   skype = ""
   telegram = ""
 
@@ -98,8 +98,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 2
   map_api_key = ""
-  latitude = "33.948916"
-  longitude = "-83.375123"
+  latitude = "52.2237"
+  longitude = "6.8858"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )

@@ -10,8 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Urban Informatics",
     "GIScience",
+    "Geodata Science",
+    "Urban Informatics",
     "City and Regional Development"
   ]
 
@@ -35,7 +36,6 @@ weight = 5
 
 # Biography
 
-Mingshu Wang is a final-year PhD Candidate of Geography (**GIScience**) at the University of Georgia.
+Dr. Mingshu Wang is a tenure-track Assistant Professor of **Geodata Science** at the Department of Geoinformation Procressing, Faculty of Geoinformation Science and Earth Observation (**ITC**), University of Twente, Netherlands. He earned his Ph.D. at the University of Georgia (2018).
 
-His research focuses on understanding **sustainable urban systems** with **GIScience** (i.e., geographical information systems, remote sensing, and spatial analysis) and **big data analytics** (e.g., machine learning, econometrics, and natural language processing).
-
+His research focuses on methods and applications of **GIScience** (i.e., geographical information systems, remote sensing, and spatial analysis) and **big data analytics** (e.g., machine learning, econometrics, and natural language processing). He is interested in applying geodata science to understanding **sustainable urban systems**. 
