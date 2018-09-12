@@ -61,6 +61,9 @@ Year| Conference|Session|Location
 - Smart Cities
 - Sustainability (SCI)
 - Transactions in GIS (SSCI)
+- Tourism Economics (SSCI)
+- Urban Studies (SSCI)
+
 
 #### Selected Professional Memberships
 - Regional Studies Association (RSA)

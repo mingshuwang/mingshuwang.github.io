@@ -19,7 +19,7 @@ weight = 55
 
 Year|Institute(s)|
 ----|------|
-2018|Nanjing University, New York University, University of Liverpool, University of Toronto, University of North Carolina at Greensboro, University of North Texas
+2018|Chinese Academy of Science, East China Normal University, Loughborough University, Nanjing University, New York University, University of Liverpool, University of Toronto, University of North Carolina at Greensboro, University of North Texas, University of Twente
 2017|East China Normal University, Huazhong University of Science and Technology, Southwest University
 2016|[TEDxUGA]({{< ref "talk/tedxuga.md" >}}), East China University of Science and Technology, Guangzhou University, Northwestern Polytechnical University, University of Liverpool
 2015|[NOAA National Centers for Environmental Information]({{< ref "talk/gawater.md" >}}), Sun Yat-sen University
