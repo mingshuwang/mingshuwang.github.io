@@ -1,6 +1,6 @@
 +++
 title = "Sleepless nights in hotels? Understanding factors that influence hotel sleep quality"
-date = 2018-05-03
+date = 2018-08-03
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Zhenxing Mao", "Yang Yang", "**Mingshu Wang**"]
@@ -17,8 +17,8 @@ authors = ["Zhenxing Mao", "Yang Yang", "**Mingshu Wang**"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = " *International Journal of Hospitality Management*, (In Press)."
-publication_short = " *International Journal of Hospitality Management*, (In Press)"
+publication = " *International Journal of Hospitality Management*, *74*, 189-201"
+publication_short = " *International Journal of Hospitality Management*, *74*, 189-201"
 
 # Abstract and optional shortened version.
 abstract = "Sleep quality heavily shapes the tourism experience because tourists spend a large amount of their travel time sleeping. In this study, we propose a conceptual framework of factors influencing sleep quality in hotels based on personal and hotel characteristics. Personal characteristics include demographic, biopsychosocial, and tripographic factors; hotel characteristics consist of hotel location, facilities, and the sleeping environment. By analyzing TripAdvisor hotel review data in Los Angeles, we estimate a mixed-effects ordered logit model to understand the factors that influence sleep quality as well as the hotel sleeping environment as indicated by sentiment analysis. The results validate our proposed conceptual model. Hotel sleep quality is found to vary by age, gender, traveler type, and review experience. In addition, hotel star rating, nearby restaurant density, number of hotel floors, and the hotel sleeping environment also influence hotel sleep quality. Implications of this study are provided in closing."

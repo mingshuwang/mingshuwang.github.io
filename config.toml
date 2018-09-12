@@ -64,9 +64,9 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "mingshu.wang@utwente.nl"
-  address = "HENGELOSESTRAAT 99, 7514 AE ENSCHEDE, THE NETHERLANDS"
+  address = "Hengelosestraat 99, 1-039, 7514AE Enschede, The Netherlands"
   office_hours = "Email for appointment"
-  phone = "+31-534895887"
+  phone = "+31-5 34 89 58 87"
   skype = ""
   telegram = ""
 
@@ -229,10 +229,10 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "mailto:mingshu.wang@utwente.nl"
 
-#  [[params.social]]
-#    icon = "twitter"
-#    icon_pack = "fa"
-#    link = "//twitter.com/MingshuWang"
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/MingshuWang"
 
   [[params.social]]
     icon = "google-scholar"

@@ -36,6 +36,6 @@ weight = 5
 
 # Biography
 
-Dr. Mingshu Wang (王明舒) is a tenure-track Assistant Professor of **Geodata Science** at the Department of Geoinformation Procressing, Faculty of Geoinformation Science and Earth Observation (**ITC**), University of Twente, Netherlands.
+Dr. Mingshu Wang (王明舒) is a tenure-track Assistant Professor of **Geodata Science** at the [Department of Geo-information Procressing, Faculty of Geoinformation Science and Earth Observation (**ITC**)](https://www.itc.nl/about-itc/organization/scientific-departments/geo-information-processing/), University of Twente, the Netherlands.
 
 His research focuses on methods and applications of **GIScience** (i.e., geographical information systems, remote sensing, and spatial analysis) and **big data analytics** (e.g., machine learning, econometrics, and natural language processing). He is interested in applying geodata science to understanding **sustainable urban systems**. 
