@@ -1,6 +1,6 @@
 +++
 title = "Visualizing pesticide usage in the United States from 1992 to 2009"
-date = 2017-03-01
+date = 2016-08-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Mingshu Wang**"]

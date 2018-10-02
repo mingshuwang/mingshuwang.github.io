@@ -3,7 +3,7 @@ title = "Big data for intrametropolitan human movement studies: A case study of 
 date = 2017-05-15
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jiangping Zhou", "**Mingshu Wang***", "Ying Long"]
+authors = ["Jiangping Zhou", "**Mingshu Wang**", "Ying Long"]
 
 # Publication type.
 # Legend:
