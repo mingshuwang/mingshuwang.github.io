@@ -18,8 +18,8 @@ weight = 70
 #### Organizational Roles within Professional Societies
 Year         | Role
 -------------| ------------- 
-2017-        | **Councilperson**, Mid-South Region, [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/)
 2015-        | **Secretary**, [Working Group IV/6—Internet of Things and Spatial Decision Support, International Society for Photogrammetry and Remote Sensing (ISPRS)](http://www2.isprs.org/commissions/comm4/wg6.html)
+2017- 2018   | **Councilperson**, Mid-South Region, [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/)
 2014-2015    | **Chair**, Student Advisory Council, [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/)
 2013-2014    | **Deputy Chair**, Student Advisory Council, [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/)
 
