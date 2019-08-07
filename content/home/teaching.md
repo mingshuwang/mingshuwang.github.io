@@ -17,6 +17,7 @@ weight = 60
 
 +++
 I have taught the following courses at the **University of Twente**:
+
 Year|Course|
 ----|------| 
 2019|Big Geodata Processing (Lecturer)
