@@ -21,4 +21,4 @@ Student| Degree Program| Topic | Year
 -------|--------| ------|------| 
 Laurens Kik|MSc., [GIMA](https://www.uu.nl/masters/en/geographical-information-management-and-applications-gima)| Mapping Urban Heat Islands|2019
 Yun Xu|MSc., [MGEO](https://www.itc.nl/education/studyfinder/geo-information-science-earth-observation/)| Assessing Polycentric Urban Structure from User-generated Contents|2020
-Mahshid Ghaffari|MSc., [Geoinformatics, Double-degree with KNTU](https://en.kntu.ac.ir/faculties/geodesy-geomatics-engineering/)|Understanding Network Complexity from OpenStreetMap
+Mahshid Ghaffari|MSc., [Geoinformatics, Double-degree with KNTU](https://en.kntu.ac.ir/faculties/geodesy-geomatics-engineering/)|Understanding Network Complexity from OpenStreetMap|2020
