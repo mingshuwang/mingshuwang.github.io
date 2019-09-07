@@ -15,13 +15,15 @@ weight = 25
 
 +++
 #### GUEST-EDITED JOURNAL VOLUMES
-- Madden, M., Vacca, G., Paudyal, D., **Wang, M.** (2018). Geospatial Applications of the Internet of Things (IoTs). [Special Issue *ISPRS International Journal of Geo-Information*](http://www.mdpi.com/journal/ijgi/special_issues/Geospatial_IoT).
+- Madden, M., **Wang, M.**, Paudyal, D., Vacca, G. (2020). Integrating GIS and Internet of Things (IoT) in Sustainable Cities. [Special Issue *ISPRS International Journal of Geo-Information*](https://www.mdpi.com/journal/ijgi/special_issues/GIS_IoT).
+- aworth, J., Dragicevic, S., Madden, M., **Wang, M.**, Huang, H. (2019). Deep Learning and Computer Vision for Geoinformation Sciences. [Special Issue *ISPRS International Journal of Geo-Information*](https://www.mdpi.com/journal/ijgi/special_issues/GIS_IoT).
+- Madden, M., Vacca, G., Paudyal, D., **Wang, M.** (2018). Geospatial Applications of the Internet of Things (IoTs). [Special Issue *ISPRS International Journal of Geo-Information*](http://www.mdpi.com/journal/ijgi/special_issues/DeepLearning_Computer_Vision_GeoInformation).
 
 #### BOOK CHAPTERS
-- **Wang, M.** (In Press). Empirical Mode Decomposition in Remote Sensed Image Processing. In Chapter 7: Image Processing and Analysis Methods, *ASPRS Manual of Remote Sensing*, 4th Edition. Edited by Brandades, S. & Madden, M.
+- **Wang, M.** (2020). Empirical Mode Decomposition in Remote Sensed Image Processing. In Chapter 7: Image Processing and Analysis Methods, *ASPRS Manual of Remote Sensing*, 4th Edition. Edited by Brandades, S. & Madden, M.
 
 #### BOOK REVIEWS
-- **Wang, M.** (In Press). Integrating Scale in Remote Sensing and GIS, Edited by Quattrochi, D., Wentz, E., Lam, N., Emerson, C. CRC Press, Boca Raton, FL, USA. Jan 19, 2017. 402p. *Photogrammetric Engineering & Remote Sensing*
+- **Wang, M.** (2018). Integrating Scale in Remote Sensing and GIS, Edited by Quattrochi, D., Wentz, E., Lam, N., Emerson, C. CRC Press, Boca Raton, FL, USA. Jan 19, 2017. 402p. *Photogrammetric Engineering & Remote Sensing*, *84*(11), 673. 
 - **Wang, M.** (2016). Location Is (Still) Everything: The Surprising Influence of the Real World on How We Search, Shop, and Sell in the Virtual One, David R. Bell. Houghton Mifflin Harcourt, Boston, MA, July 15, 2014. 240p. *Southeastern Geographer*, 56*(4), 476-477.
 - **Wang, M.**(2015). Global Urban Monitoring and Assessment through Earth Observation, Edited by Weng, Q. CRC Press, Boca Raton, FL, USA. May 23, 2014. 440p. *Photogrammetric Engineering & Remote Sensing*, *81*(9), 692-694.
 
