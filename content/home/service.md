@@ -24,8 +24,8 @@ Year         | Role
 2013-2014    | **Deputy Chair**, Student Advisory Council, [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/)
 
 #### Editorial Board Membership
-------| ----------
-2019- | *PLOS ONE*
+
+2019-	*PLOS ONE*
 
 
 #### Conference Program Committee
