@@ -3,7 +3,7 @@ title = "A Robust Noise Mitigation Method for the Mobile RFID Location in Built 
 date = 2019-05-10
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Changfeng Jing","Tiancheng Sun","Qiang Chen","Mingyi Du",**Mingshu Wang**","Shuoqing Wang", "Jian Wang"]
+authors = ["Changfeng Jing","Tiancheng Sun","Qiang Chen","Mingyi Du","**Mingshu Wang**","Shuoqing Wang", "Jian Wang"]
 
 # Publication type.
 # Legend:
