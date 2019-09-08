@@ -1,6 +1,6 @@
 +++
 title = "Travel distance and hotel service satisfaction: An inverted U-shaped relationship"
-date = 2018-10-01
+date = 2019-01-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sangwon Park", "Yang Yang", "**Mingshu Wang**"]
