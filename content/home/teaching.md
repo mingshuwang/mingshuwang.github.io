@@ -30,8 +30,8 @@ I have taught the following courses at the **University of Georgia**, USA:
 
 Year|Course|Level|Role(s)|
 ----|------|-----|-------|
-2018|Programming for GIS ([GEOG 4590L/6590L](http://bulletin.uga.edu/link.aspx?cid=GEOG4590-4590L/6590-6590L)|Undergraduate + Graduate|Lab Instructor
-2017|Aerial Photographs and Image Interpretation ([GEOG 4330L/6330L](http://geography.uga.edu/courses/content/geog-44304430l)|Undergraduate + Graduate|Lab Instructor
+2018|Programming for GIS ([GEOG 4590L/6590L)](http://bulletin.uga.edu/link.aspx?cid=GEOG4590-4590L/6590-6590L)|Undergraduate + Graduate|Lab Instructor
+2017|Aerial Photographs and Image Interpretation ([GEOG 4330L/6330L)](http://geography.uga.edu/courses/content/geog-44304430l)|Undergraduate + Graduate|Lab Instructor
 2016|Aerial GIScience and GITechnology|Undergraduate|Guest Lecturer
 2013|Introduction to Physical Geography (GEOG 1111)|Undergraduate|Teaching Assistant
 2012|The Logic and Practice of Sociological Research (SOCI 3600)|Undergraduate|Teaching Assistant
