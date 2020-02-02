@@ -18,7 +18,9 @@ weight = 80
 +++
 Year|Award
 ----|-------------
-2019|**Chinese Government Award for Outstanding Self-Finance Students Abroad**, Ministry of Education, China
+2019|**RSAI Dissertation Award**, [Regional Science Association International (RSAI)](https://www.regionalscience.org/index.php/awards/rsai-dissertation-award.html)
+2019|**NCG Talent Program**, [The Netherlands Centre for Geodesy and Geo-Information (NCG)](https://www.ncgeo.nl/index.php/en/actueelgb/nieuwsgb/item/2800-ncg-talent-program)
+2019|**Chinese Government Award for Outstanding Self-Finance Students Abroad**, [China Scholarship Council (CSC)](https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self_finance_students_abroad)
 2018|**Robert N. Colwell Memorial Fellowship**, [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/awards-and-scholarships/robert-n-colwell-memorial-fellowship.html)
 2018|**Graduate School Travel Grant**, University of Georgia
 2018|**Finalist**, [Geographic Information Science and Systems Specialty Group, AAG](http://aag-giss.org/)

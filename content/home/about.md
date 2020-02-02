@@ -10,10 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "GIScience",
-    "Geodata Science",
     "Urban Informatics",
     "Urban Science",
+    "GIScience",
+    "Geodata Science",
     "City and Regional Development"
   ]
 
@@ -37,4 +37,4 @@ weight = 5
 
 # Biography
 
-Dr. Mingshu Wang (王明舒) is a tenure-track Assistant Professor of **Geodata Science** at the [Department of Geo-information Processing, Faculty of Geo-information Science and Earth Observation (**ITC**)](https://www.itc.nl/about-itc/organization/scientific-departments/geo-information-processing/), University of Twente, the Netherlands. His research focuses on developing and applying methods of **GIScience** (i.e., geographical information systems, remote sensing, and spatial analysis) and **big data analytics** (e.g., machine learning, artificial intelligence, and econometrics) to understand sustainable urban systems. He has two interconnected research lines of cities from the perspective of **people**. At a macro-scale, he quantifies urban structure and city performances via GIScience methods. At a micro-scale, he explores individual human mobility via crowdsourced geospatial information.
+Dr. Mingshu Wang (王明舒) is a tenure-track Assistant Professor of **Geodata Science** at the [Department of Geo-information Processing, Faculty of Geo-information Science and Earth Observation (**ITC**)](https://www.itc.nl/about-itc/organization/scientific-departments/geo-information-processing/), University of Twente, the Netherlands. His research focuses on developing and applying methods of **GIScience** (i.e., geographical information systems, remote sensing, and spatial analysis) and **big data analytics** (e.g., machine learning, artificial intelligence, and econometrics) to understand **sustainable urban systems**. He has two interconnected research lines of cities from the perspective of **people**. At a macro-scale, he quantifies urban structure and city performances via GIScience techniques. At a micro-scale, he explores individual human mobility via crowdsourced geospatial information and artificial intelligence methods.

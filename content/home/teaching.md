@@ -23,7 +23,7 @@ Year|Course|Level|Role(s)|
 2019|[Big Geodata Processing](https://www.itc.nl/education/studyfinder/big-geodata-processing/)|Graduate|Lecturer
 2019|[Integrated Geospatial Workflow](http://studyguide.itc.utwente.nl/m-geo/all-courses/201800301/integrated-geospatial-workflows)|Graduate|Lecturer
 2019|[HTHT UT Minor in GIS](https://www.utwente.nl/onderwijs/keuzeruimte/minor/uploads/htht/brochure-htht-gis.pdf)|Undergraduate|Coordinator + Lecturer
-2018-2019|[Academic Skills](http://studyguide.itc.utwente.nl/m-geo/all-courses/201800271/academic-skills)|Graduate|Coordinator + Lecturer
+2018-2020|[Academic Skills](http://studyguide.itc.utwente.nl/m-geo/all-courses/201800271/academic-skills)|Graduate|Coordinator + Lecturer
 
 
 I have taught the following courses at the **University of Georgia**, USA:

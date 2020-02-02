@@ -19,18 +19,21 @@ weight = 70
 Year         | Role
 -------------| ------------- 
 2015-        | **Secretary**, [Working Group IV/6—Internet of Things and Spatial Decision Support, International Society for Photogrammetry and Remote Sensing (ISPRS)](http://www2.isprs.org/commissions/comm4/wg6.html)
+2020-2021	 | **Board of Director Member** [Chinese Professionals of Geographical Information Science (CPGIS)](https://www.cpgis.org/)
 2017- 2018   | **Councilperson**, Mid-South Region, [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/)
 2014-2015    | **Chair**, Student Advisory Council, [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/)
 2013-2014    | **Deputy Chair**, Student Advisory Council, [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/)
 
 #### Editorial Board Membership
 
-2019-	*PLOS ONE*
-
+2019-	[*PLOS ONE*](https://journals.plos.org/plosone/)
+2019-	[*Remote Sensing*](https://www.mdpi.com/journal/remotesensing)
 
 #### Conference Program Committee
 Year| Conference|Location
 ----| ----------|-------- 
+2020|[The 3rd AAG GeoAI and Deep Learning Symposium](https://aag.secure-abstracts.com/AAG%20Annual%20Meeting%202020/sessions-gallery)|Denver, USA
+2020|[International Symposium on Spatio-Temporal Artificial Intelligence](http://spacetimeai.org/)|London, UK
 2019|[The 4th International Conference on Smart Data for Smart Cities](https://www.geoinfo.utm.my/sdsc2019/)|Kuala Lumpur, Malaysia
 2019|[The 2nd AAG GeoAI and Deep Learning Symposium](https://www.acsu.buffalo.edu/~yhu42/files/2019_AAG_GeoAI_Symposium.pdf)|Washington, D.C., USA
 2018|[ISPRS Technical Commission IV Symposium 2018](http://www.isprs.org/tc4-symposium2018/)|Delft, Netherlands
@@ -42,18 +45,24 @@ Year| Conference|Location
 #### Conference Session Chair
 Year| Conference|Session|Location
 ----| ----------|-------|--------
-2019|The 25th International Sustainable Development Research Society Conference|Urban Resilience|Nanjing, China
+2020|[Interconnected: Resilience Innovations for Sustainable Development Goals](https://www.4tu.nl/resilience/en/events/joint-international-resilience-conference/)|Urban Resilience|Delft, Netherlands
+2019|International Conference on Geomatics in the Big Data Era |Big Data Applications|Guilin, China
+2019|[The 25th International Sustainable Development Research Society Conference](http://isdrs.org/)|Urban Resilience|Nanjing, China
 2016|[XXIII ISPRS Congress](http://www.isprs2016-prague.com/)|Location-based Social Media Data|Prague, Czech Republic
 2014|[2014 ASPRS Annual Conference](http://conferences.asprs.org/archives/Louisville-2014/blog)|[GeoLeague Challenge](https://www.asprs.org/student/geoleague-challenge-2014.html)|Louisville, KY, USA
+
+#### Peer Reviewer for Grants
+- Dutch Research Council (NWO, Nederlandse Organisatie voor Wetenschappelijk Onderzoek)
+- US National Science Foundation
 
 #### Peer Reviewer for Selected Academic Journals
 - Annals of GIS
 - Applied Geography
-- Asian Geographer
 - Cities
 - Computers, Environment, and Urban Systems
 - Earth Science Informatics
 - Environment and Planning B: Urban Analytics and City Science
+- Habitat International 
 - Journal of Spatial Science
 - Journal of Transport Geography
 - Journal of Urban Planning and Development
@@ -63,7 +72,9 @@ Year| Conference|Session|Location
 - Remote Sensing
 - Sensors
 - Sustainability
+- The Professional Geographer
 - Transactions in GIS
+- Transport Reviews
 - Transportation
 - Urban Studies
 
