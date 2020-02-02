@@ -26,8 +26,8 @@ Year         | Role
 
 #### Editorial Board Membership
 
-2019-	[*PLOS ONE*](https://journals.plos.org/plosone/)
-2019-	[*Remote Sensing*](https://www.mdpi.com/journal/remotesensing)
+- 2019-	[*PLOS ONE*](https://journals.plos.org/plosone/)
+- 2019-	[*Remote Sensing*](https://www.mdpi.com/journal/remotesensing)
 
 #### Conference Program Committee
 Year| Conference|Location
