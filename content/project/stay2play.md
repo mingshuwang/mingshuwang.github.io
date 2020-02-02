@@ -90,8 +90,8 @@ To simplify the model, we used average Uber cost to recommend travel sequences t
 
 ##### References
 - Yabing Zhao, Xun Xu, **Mingshu Wang**. (2019).[Predicting overall customer satisfaction: Big data evidence from hotel online textual reviews]({{< ref "publication/ijhm2019.md" >}}) *International Journal of Hospitality Management*, *76*, *Part A*, 111-121.
-- Sangwon Park, Yang Yang, **Mingshu Wang**. (In Press).[Travel distance and hotel service satisfaction: An inverted U-shaped relationship]({{< ref "publication/ijhm2018_dist.md" >}}) *International Journal of Hospitality Management*.
-- Zhenxing Mao, Yang Yang, **Mingshu Wang**. (In Press).[Sleepless nights in hotels? Understanding factors that influence hotel sleep quality]({{< ref "publication/ijhm2018_sq.md" >}}) *International Journal of Hospitality Management*.
+- Sangwon Park, Yang Yang, **Mingshu Wang**. (2019).[Travel distance and hotel service satisfaction: An inverted U-shaped relationship]({{< ref "publication/ijhm2018_dist.md" >}}) *International Journal of Hospitality Management*,*76*, 261-270.
+- Zhenxing Mao, Yang Yang, **Mingshu Wang**. (2018).[Sleepless nights in hotels? Understanding factors that influence hotel sleep quality]({{< ref "publication/ijhm2018_sq.md" >}}) *International Journal of Hospitality Management*, *74*, 189-201.
 - Dongying Li, Xiaolu Zhou, **Mingshu Wang**. (2018). [Analyzing and visualizing the spatial interactions between tourists and locals: A Flickr study in ten US cities.]({{< ref "publication/cities2018.md" >}}) *Cities*, *74*, 249-258.
 - Xiaolu Zhou, **Mingshu Wang**, Dongying Li. (2017). [From stay to play – A travel planning tool based on crowdsourcing user-generated contents.]({{< ref "publication/ag2017.md" >}}) *Applied Geography*, *78*, 1-11.
 - **Mingshu Wang**, Xiaolu Zhou. (2016). [Geography matters in online hotel reviews.]({{< ref "publication/isprsa2016.md" >}}) *ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, *XLI-B2*, 573-576.
