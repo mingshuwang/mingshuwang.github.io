@@ -22,12 +22,11 @@ Student| Degree Program| Topic | Year
 Wu Cai|Ph.D., [ITC](https://www.itc.nl/research/study-for-phd/)|*TBD*|2020-2024
 Praneeth Kadiyam|MSc., [Geoinformatics](https://www.itc.nl/education/studyfinder/geo-information-science-earth-observation/)| Understanding Built Environments with Street View Services|2019-2021
 Rameez Khan Swati| MSc., [Spatial Engineering](https://www.utwente.nl/en/education/master/programmes/spatial-engineering/)| Graph Learning with OpenStreetMap|2019-2021
-Laurens Kik|MSc., [GIMA](https://www.uu.nl/masters/en/geographical-information-management-and-applications-gima)| Mapping Urban Heat Islands|2017-2019
 Yun Xu|MSc., [Geoinformatics](https://www.itc.nl/education/studyfinder/geo-information-science-earth-observation/)| Built Environment and Hotel Attractiveness: A Case study in New York City based on Geodata Science and Machine Learning|2018-2020
 Mahshid Ghaffari|MSc., [Geoinformatics, Double-degree with KNTU](https://en.kntu.ac.ir/faculties/geodesy-geomatics-engineering/)|Understanding Network Complexity from OpenStreetMap|2018-2020
+Laurens Kik|MSc., [GIMA](https://www.uu.nl/masters/en/geographical-information-management-and-applications-gima)| Mapping Urban Heat Islands|2017-2019
 
 
-+++
 I served as a committee member/examiner for the following students:
 
 Student| Degree Program| Topic | Year

@@ -16,12 +16,13 @@ weight = 25
 +++
 #### GUEST-EDITED JOURNAL VOLUMES
 - **Wang, M.**, Persello, C. (2020). Integrating Remote Sensing and Urban Informatics. [Special Issue *Remote Sensing*](https://www.mdpi.com/journal/remotesensing/special_issues/urban_informatics)
+- Fu, P. **Wang, M.**, Xie, Y., Hu, L. (2020). Urban resilience: adapting city to climate change and sustainability. Special Issue [*Cities and Environment Interactions*](https://www.journals.elsevier.com/city-and-environment-interactions/)
 - Madden, M., **Wang, M.**, Paudyal, D., Vacca, G. (2020). Integrating GIS and Internet of Things (IoT) in Sustainable Cities. [Special Issue *ISPRS International Journal of Geo-Information*](https://www.mdpi.com/journal/ijgi/special_issues/GIS_IoT).
 - Haworth, J., Dragicevic, S., Madden, M., **Wang, M.**, Huang, H. (2019). Deep Learning and Computer Vision for Geoinformation Sciences. [Special Issue *ISPRS International Journal of Geo-Information*](https://www.mdpi.com/journal/ijgi/special_issues/GIS_IoT).
 - Madden, M., Vacca, G., Paudyal, D., **Wang, M.** (2018). Geospatial Applications of the Internet of Things (IoTs). [Special Issue *ISPRS International Journal of Geo-Information*](http://www.mdpi.com/journal/ijgi/special_issues/DeepLearning_Computer_Vision_GeoInformation).
 
 #### BOOK CHAPTERS
-- **Wang, M.** (2020). Empirical Mode Decomposition in Remote Sensed Image Processing. In Chapter 7: Image Processing and Analysis Methods, *ASPRS Manual of Remote Sensing*, 4th Edition. Edited by Brandades, S. & Madden, M.
+- **Wang, M.** (2019). Empirical Mode Decomposition in Remote Sensed Image Processing. In Chapter 7: Image Processing and Analysis Methods, *ASPRS Manual of Remote Sensing*, 4th Edition. Edited by Brandades, S. & Madden, M. DOI: https://doi.org/10.14358/MRS/Chapter7
 
 #### BOOK REVIEWS
 - **Wang, M.** (2018). Integrating Scale in Remote Sensing and GIS, Edited by Quattrochi, D., Wentz, E., Lam, N., Emerson, C. CRC Press, Boca Raton, FL, USA. Jan 19, 2017. 402p. *Photogrammetric Engineering & Remote Sensing*, *84*(11), 673. 
