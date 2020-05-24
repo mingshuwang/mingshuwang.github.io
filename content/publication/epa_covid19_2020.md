@@ -3,7 +3,7 @@ title = "Where we are in fighting against the COVID-19"
 date = 2020-05-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Wei, X.", "**Wang, M**", "Kraak, MJ"]
+authors = ["Wei, X.", "**Wang, M** (Corresponding Author)", "Kraak, MJ"]
 
 # Publication type.
 # Legend:
