@@ -21,17 +21,17 @@ weight = 5
 [[education.courses]]
   course = "Ph.D. in Geography (GIScience)"
   institution = "University of Georgia, USA"
-  year = 2018
+
 
 [[education.courses]]
   course = "MSc. in Geography (GIScience)"
   institution = "University of Georgia, USA"
-  year = 2014
+
 
 [[education.courses]]
   course = "BSc. in Regional Planning"
   institution = "Nanjing University, China"
-  year = 2012
+
  
 +++
 
