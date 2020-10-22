@@ -18,6 +18,7 @@ weight = 25
 - **Wang, M.**, Persello, C. (2020). Integrating Remote Sensing and Urban Informatics. Special Issue [*Remote Sensing*](https://www.mdpi.com/journal/remotesensing/special_issues/urban_informatics)
 - Fu, P. **Wang, M.**, Xie, Y., Hu, L. (2020). Urban resilience: adapting city to climate change and sustainability. Special Issue [*Cities and Environment Interactions*](https://www.journals.elsevier.com/city-and-environment-interactions/)
 - Madden, M., **Wang, M.**, Paudyal, D., Vacca, G. (2020). Integrating GIS and Internet of Things (IoT) in Sustainable Cities. Special Issue [*ISPRS International Journal of Geo-Information*](https://www.mdpi.com/journal/ijgi/special_issues/GIS_IoT).
+- Peng, B., Du, Z., Jin, Z., Wang, M. (2020). Big data for sustainable development: new advances in theories, data collection techniques, analysis algorithms, intelligent systems, knowledge discoveries, and ethics. Collection [*Frontiers in Big Data*](https://www.frontiersin.org/journals/big-data).
 - Haworth, J., Dragicevic, S., Madden, M., **Wang, M.**, Huang, H. (2019). Deep Learning and Computer Vision for Geoinformation Sciences. Special Issue [*ISPRS International Journal of Geo-Information*](https://www.mdpi.com/journal/ijgi/special_issues/GIS_IoT).
 - Madden, M., Vacca, G., Paudyal, D., **Wang, M.** (2018). Geospatial Applications of the Internet of Things (IoTs). Special Issue [*ISPRS International Journal of Geo-Information*](http://www.mdpi.com/journal/ijgi/special_issues/DeepLearning_Computer_Vision_GeoInformation).
 

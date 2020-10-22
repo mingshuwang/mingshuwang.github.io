@@ -15,12 +15,16 @@ weight = 51
 
 
 +++
-I have supervised the following students at the **University of Twente**:
+I have supervised the following PhD and MSc students at the **University of Twente**:
 
 Student| Degree Program| Topic | Year
 -------|--------| ------|------| 
-Wu Cai|Ph.D., [ITC](https://www.itc.nl/research/study-for-phd/)|*TBD*|2020-2024
+Wu Cai|Ph.D.|A pattern language approach enhanced with urban dynamic data for morphological analysis and simulation in urban design|2020-2024
+Nadia Shafaeipoursarmour |Ph.D.|Measuring pedestrian dynamics|2020-2024
+Ting Zhou|Ph.D.|Measuring pedestrian dynamics|2020-2024
+Luning Li|Ph.D., Visiting Student| Contextualizing and modeling human mobility in urban space|2019-2023
 Praneeth Kadiyam|MSc., [Geoinformatics](https://www.itc.nl/education/studyfinder/geo-information-science-earth-observation/)| Understanding Built Environments with Street View Services|2019-2021
+Vijayudu Kondi |MSc., [Geoinformatics](https://www.itc.nl/education/studyfinder/geo-information-science-earth-observation/)| Short- vs. long-term spatial forecasting using autoregressive models|2019-2021
 Rameez Khan Swati| MSc., [Spatial Engineering](https://www.utwente.nl/en/education/master/programmes/spatial-engineering/)| Graph Learning with OpenStreetMap|2019-2021
 Yun Xu|MSc., [Geoinformatics](https://www.itc.nl/education/studyfinder/geo-information-science-earth-observation/)| Built Environment and Hotel Attractiveness: A Case study in New York City based on Geodata Science and Machine Learning|2018-2020
 Mahshid Ghaffari|MSc., [Geoinformatics, Double-degree with KNTU](https://en.kntu.ac.ir/faculties/geodesy-geomatics-engineering/)|Understanding Network Complexity from OpenStreetMap|2018-2020
@@ -31,6 +35,7 @@ I served as a committee member/examiner for the following students:
 
 Student| Degree Program| Topic | Year
 -------|--------| ------|------| 
+Tongjing Wang|PhD, Delft University of Technology|Regional Virtual Interaction Analysis using Complex Network Theory|2019-2023
 Rosalie Kremser|MSc., [Cartography](https://cartographymaster.eu/)|Multi-Hazard Risk Assessment using GIS in urban areas|2019-2021
 Wei Li|MSc., [Urban Planning and Management](https://www.itc.nl/education/studyfinder/geo-information-science-earth-observation/specialization/urban-planning-and-management/)|Property valuation using deep learning|2018-2020
 Robert van Hoek|MSc., [GIMA](https://www.uu.nl/masters/en/geographical-information-management-and-applications-gima)| Empirical foundation of User Generated Content as input for policymaking: Finding spatial patterns in Recreational Cycling|2017-2019

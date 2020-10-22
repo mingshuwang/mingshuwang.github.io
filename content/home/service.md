@@ -19,19 +19,30 @@ weight = 70
 Year         | Role
 -------------| ------------- 
 2015-        | **Secretary**, [Working Group IV/6—Internet of Things and Spatial Decision Support, International Society for Photogrammetry and Remote Sensing (ISPRS)](http://www2.isprs.org/commissions/comm4/wg6.html)
+2019-        | **Expert Supporter** [Confederation of Laboratories for Artificial Intelligence Research in Europe (CLAIRE)](https://claire-ai.org/)
+2019-        | **Supporter** [European Laboratory for Learning and Intelligent Systems (ELLIS)](https://ellis.eu/)
 2020-2021	 | **Board of Director Member** [Chinese Professionals of Geographical Information Science (CPGIS)](https://www.cpgis.org/)
 2017- 2018   | **Councilperson**, Mid-South Region, [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/)
 2014-2015    | **Chair**, Student Advisory Council, [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/)
 2013-2014    | **Deputy Chair**, Student Advisory Council, [American Society for Photogrammetry and Remote Sensing (ASPRS)](https://www.asprs.org/)
 
-#### Editorial Board Membership
 
+#### Editorial Positions
+- 2020-	Associate Editor, [*Regional Studies, Regional Science*](https://www.tandfonline.com/toc/rsrs20/current)
+
+
+#### Editorial Board Membership
+- 2020- [*UCL Open: Environment*](https://ucl.scienceopen.com/)
 - 2019-	[*PLOS ONE*](https://journals.plos.org/plosone/)
 - 2019-	[*Remote Sensing*](https://www.mdpi.com/journal/remotesensing)
 
 #### Conference Program Committee
 Year| Conference|Location
-----| ----------|-------- 
+----| ----------|--------
+2021| [XXIV ISPRS Congress](http://www.isprs2020-nice.com/)|Nice, France
+2020| [The 3rd ACM SIGSPATIAL International Workshop on Advances in Resilient and Intelligent Cities (ARIC 2020)](https://urbands.github.io/aric2020/)|Seattle, USA
+2020| [The 19th IEEE International Conference on Machine Learning and Applications](https://www.icmla-conference.org/icmla20/))|Miami, USA
+2020| [Climate Change and Disaster Management (CCDM2020)](http://www.gi4dm.net/2020/)|Sydney, Australia
 2020|[The 3rd AAG GeoAI and Deep Learning Symposium](https://aag.secure-abstracts.com/AAG%20Annual%20Meeting%202020/sessions-gallery)|Denver, USA
 2020|[International Symposium on Spatio-Temporal Artificial Intelligence](http://spacetimeai.org/)|London, UK
 2019|[The 4th International Conference on Smart Data for Smart Cities](https://www.geoinfo.utm.my/sdsc2019/)|Kuala Lumpur, Malaysia
@@ -54,19 +65,24 @@ Year| Conference|Session|Location
 #### Peer Reviewer for Grants
 - Dutch Research Council (NWO, Nederlandse Organisatie voor Wetenschappelijk Onderzoek)
 - US National Science Foundation
+- Estonian Research Council (ETAg)
+- Vienna Science and Technology Fund (Wiener Wissenschafts-, Forschungs- und Technologiefonds, WWTF)
 
 #### Peer Reviewer for Selected Academic Journals
+Top reviewers in Social Sciences (top 1% of reviewers): 2018, 2019
 - Annals of GIS
 - Applied Geography
 - Cities
 - Computers, Environment, and Urban Systems
 - Earth Science Informatics
 - Environment and Planning B: Urban Analytics and City Science
+- Environment Science & Technology
 - Habitat International 
+- ISPRS International Journal of Geo-Information
 - Journal of Spatial Science
 - Journal of Transport Geography
+- Journal of Urban Management
 - Journal of Urban Planning and Development
-- ISPRS International Journal of Geo-Information
 - PLoS ONE
 - Regional Studies
 - Remote Sensing
@@ -76,11 +92,5 @@ Year| Conference|Session|Location
 - Transactions in GIS
 - Transport Reviews
 - Transportation
+- Urban Geography
 - Urban Studies
-
-
-#### Selected Professional Memberships
-- American Association of Geographers (AAG)
-- American Society of Photogrammetry and Remote Sensing (ASPRS)
-- American Society of Civil Engineers (ASCE)
-- Regional Studies Association (RSA)

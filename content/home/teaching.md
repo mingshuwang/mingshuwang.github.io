@@ -20,10 +20,11 @@ I have taught the following courses at the **University of Twente**, the Netherl
 
 Year|Course|Level|Role(s)|
 ----|------|-----|-------|
-2019|[Big Geodata Processing](https://www.itc.nl/education/studyfinder/big-geodata-processing/)|Graduate|Lecturer
-2019, 2020|[Integrated Geospatial Workflow](http://studyguide.itc.utwente.nl/m-geo/all-courses/201800301/integrated-geospatial-workflows)|Graduate|Lecturer
-2019|[HTHT UT Minor in GIS](https://www.utwente.nl/onderwijs/keuzeruimte/minor/uploads/htht/brochure-htht-gis.pdf)|Undergraduate|Coordinator + Lecturer
-2018, 2019, 2020|[Academic Skills](http://studyguide.itc.utwente.nl/m-geo/all-courses/201800271/academic-skills)|Graduate|Coordinator + Lecturer
+2018, 2019, 2020|[Academic Skills](https://studyguide.itc.nl/m-geo/all-courses)|Graduate|Coordinator + Lecturer
+2019, 2020|[HTHT Minor Geographic Information Systems (GIS)](https://www.utwente.nl/onderwijs/keuzeruimte/minor/uploads/htht/brochure-htht-gis.pdf)|Undergraduate|Coordinator + Lecturer
+2019, 2020|[Integrated Geospatial Workflow](https://studyguide.itc.nl/m-geo/all-courses)|Graduate|Lecturer
+2019|[Big Geodata Processing](https://studyguide.itc.nl/m-geo/all-courses)|Graduate|Lecturer
+2019|[Methods and Techniques for Geo-information Management and Application](https://www.msc-gima.nl/module-1/)|Graduate|Lecturer
 
 
 I have taught the following courses at the **University of Georgia**, USA:
