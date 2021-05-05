@@ -48,4 +48,4 @@ Bike-sharing systems (BSSs) in US urban areas (2005–2014)
 ***
 
 ##### References
-- **Mingshu Wang**, Xiaolu Zhou. (2017).[Bike-sharing systems and congestion: Evidence from US cities.]({{< ref "publication/2017_jtg.md">}}) *Journal of Transport Geography*, *65*, 147-154.
+- **Mingshu Wang**, Xiaolu Zhou. (2017).[Bike-sharing systems and congestion: Evidence from US cities.]({{< ref "publication/2017_JTG.md">}}) *Journal of Transport Geography*, *65*, 147-154.

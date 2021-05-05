@@ -78,9 +78,9 @@ CHRED|2007, 2012|10 km × 10 km, 1 km× 1 km|China
 ***
 
 ##### References
-- **Mingshu Wang**, Marguerite Madden, Xingjian Liu. (2017).[Exploring the Relationship between Urban Forms and CO2 Emissions in 104 Chinese Cities.]({{< ref "publication/2017_jupd.md">}}) *Journal of Urban Planning and Development*, *4*, 04017014.
-- **Mingshu Wang**, Bofeng Cai. (2017). [A two-level comparison of CO2 emission data in China: Evidence from three gridded data sources]({{< ref "publication/2017_jcp.md">}}) *Journal of Cleaner Production*, *148*, 194-201.
+- **Mingshu Wang**, Marguerite Madden, Xingjian Liu. (2017).[Exploring the Relationship between Urban Forms and CO2 Emissions in 104 Chinese Cities.]({{< ref "publication/2017_JUPD.md">}}) *Journal of Urban Planning and Development*, *4*, 04017014.
+- **Mingshu Wang**, Bofeng Cai. (2017). [A two-level comparison of CO2 emission data in China: Evidence from three gridded data sources]({{< ref "publication/2017_JCP.md">}}) *Journal of Cleaner Production*, *148*, 194-201.
 
-- **Mingshu Wang**, Bofeng Cai. (2017). [A two-level comparison of CO2 emission data in China: Evidence from three gridded data sources]({{< ref "publication/2017_jcp.md">}}) *Journal of Cleaner Production*, *148*, 194-201.
+- **Mingshu Wang**, Bofeng Cai. (2017). [A two-level comparison of CO2 emission data in China: Evidence from three gridded data sources]({{< ref "publication/2017_JCP.md">}}) *Journal of Cleaner Production*, *148*, 194-201.
 
 - Liu, X., **Wang, M.**, Qiang, W., Wu, K. & Wang, X. (2020). [Urban form, shrinking cities, and residential carbon emissions: Evidence from Chinese city-regions.](({{< ref "publication/2020_AE.md">}}) ) *Applied Energy*, *261*, 114409.
