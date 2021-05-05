@@ -25,7 +25,7 @@ math = false
 +++
 **Polycentric urban development** refers to different forces causing multiple previously close-by but independent urban sub-divisions to become a larger and more integrated **urban system**. **Polycentricity** is oftentimes deemed a desirable urban form, generating greater agglomeration externalities as well as facilitating the achievement of social, economic, and environmental goals. Polycentric urban development has been observed and analyzed at various geographical scales, including the **intra-urban** (e.g., Central Business Districts (CBDs), edge cities, and satellite towns within a city), and **inter-urban** (e.g., the ‘Pearl River Delta’ mega-city region) scales.
 
-Despite much insightful work on polycentric urban development in China, there is a lack of systematic comparison at either scale. Therefore, in this project, we identified polycentric urban structure and quantified the degree of polycentricity in China at both **intra-urban** scale (i.e., [318 Chinese cities]({{< ref "publication/land2016.md" >}})) and **inter-urban** scale (i.e., [22 City-Regions]({{< ref "publication/epb2017.md" >}})) using detailed gridded population data, [U.S. Oak Ridge National Laboratory (ORNL)'s LandScan](https://landscan.ornl.gov/) dataset.
+Despite much insightful work on polycentric urban development in China, there is a lack of systematic comparison at either scale. Therefore, in this project, we identified polycentric urban structure and quantified the degree of polycentricity in China at both **intra-urban** scale (i.e., [318 Chinese cities]({{< ref "publication/2016_LANDUP.md" >}})) and **inter-urban** scale (i.e., [22 City-Regions]({{< ref "publication/2018_EPB.md" >}})) using detailed gridded population data, [U.S. Oak Ridge National Laboratory (ORNL)'s LandScan](https://landscan.ornl.gov/) dataset.
 
 ***
 
@@ -92,5 +92,5 @@ primate urban system and low levels of inter-urban polycentricity, for example, 
 ***
 
 ##### References
-- Xingjian Liu, **Mingshu Wang**. (2016).[How polycentric is urban China and why? A case study of 318 cities.]({{< ref "publication/land2016.md" >}}) *Landscape and Urban Planning*, *151*, 10-20 (equal contribution).
-- Xingjian Liu, Ben Derudder, **Mingshu Wang**. (2018). [Polycentric urban development in China: A multi-scale analysis.]({{< ref "publication/epb2017.md" >}}) *Environment and Planning B: Urban Analytics and City Science*, *45*(5), 953-972. [DOI](https://doi.org/10.1177/2399808317690155).
+- Xingjian Liu, **Mingshu Wang**. (2016).[How polycentric is urban China and why? A case study of 318 cities.]({{< ref "publication/2016_LANDUP.md" >}}) *Landscape and Urban Planning*, *151*, 10-20 (equal contribution).
+- Xingjian Liu, Ben Derudder, **Mingshu Wang**. (2018). [Polycentric urban development in China: A multi-scale analysis.]({{< ref "publication/2018_EPB.md" >}}) *Environment and Planning B: Urban Analytics and City Science*, *45*(5), 953-972. [DOI](https://doi.org/10.1177/2399808317690155).

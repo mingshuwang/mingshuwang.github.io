@@ -56,5 +56,5 @@ Distribution of all transit trips from the campuses.
 ***
 
 ##### References
-- **Mingshu Wang**, Jiangping Zhou, Ying Long, Feng Chen (2016).[Outside the ivory tower: visualizing university students’ top transit-trip destinations and popular corridors.]({{< ref "publication/rsrs2016.md">}}) *Regional Studies, Regional Science*, *3*(1), 202-206.
-- Jiangping Zhou, **Mingshu Wang**, Ying Long (2017). [Big data for intrametropolitan human movement studies: A case study of bus commuters based on smart card data.]({{< ref "publication/irspsd2017.md">}}) *International Review for Spatial Planning and Sustainable Development*, *5*(3), 100-115 (**Corresponding Author**).
+- **Mingshu Wang**, Jiangping Zhou, Ying Long, Feng Chen (2016).[Outside the ivory tower: visualizing university students’ top transit-trip destinations and popular corridors.]({{< ref "publication/2016_RSRS.md">}}) *Regional Studies, Regional Science*, *3*(1), 202-206.
+- Jiangping Zhou, **Mingshu Wang**, Ying Long (2017). [Big data for intrametropolitan human movement studies: A case study of bus commuters based on smart card data.]({{< ref "publication/2017_irspsd.md">}}) *International Review for Spatial Planning and Sustainable Development*, *5*(3), 100-115 (**Corresponding Author**).

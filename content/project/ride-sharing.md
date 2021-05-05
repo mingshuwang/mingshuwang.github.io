@@ -46,4 +46,5 @@ The average wait times (left) and the standard deviation of wait times (right) f
 ***
 
 ##### References
-- **Mingshu Wang**, Lan Mu. (2018).[Spatial disparities of Uber accessibility: An exploratory analysis in Atlanta, USA.]({{< ref "publication/ceus2018.md">}}) *Computers, Environment and Urban Systems*, *67*, 169-175.
+- **Mingshu Wang**, Lan Mu. (2018).[Spatial disparities of Uber accessibility: An exploratory analysis in Atlanta, USA.]({{< ref "publication/2018_CEUS.md">}}) *Computers, Environment and Urban Systems*, *67*, 169-175.
+- **Mingshu Wang**, Zheyan Chen, Lan Mu, Xuan Zhang. (2020).[Road network structure and ride-sharing accessibility: A network science perspective.]({{< ref "publication/2020_CEUS.md">}}) *Computers, Environment and Urban Systems*, *80*, 101430.
