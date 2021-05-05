@@ -39,7 +39,7 @@ projects = []
 
 # Links (optional).
 url_source = "https://www.sciencedirect.com/science/article/pii/S0278431917305947"
-url_pdf = "https://outlookuga-my.sharepoint.com/:b:/r/personal/mswang_uga_edu/Documents/papers/ijhm2018_sleep.pdf?csf=1"
+#url_pdf = "https://outlookuga-my.sharepoint.com/:b:/r/personal/mswang_uga_edu/Documents/papers/ijhm2018_sleep.pdf?csf=1"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"

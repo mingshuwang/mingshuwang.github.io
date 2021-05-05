@@ -39,7 +39,7 @@ projects = []
 
 # Links (optional).
 url_source = "http://www.ingentaconnect.com/content/tcsae/tcsae/2012/00000028/00000010/art00039?crawler=true&mimetype=application/pdf"
-url_pdf = "https://outlookuga-my.sharepoint.com/:b:/g/personal/mswang_uga_edu/EY2wo4b0iAFPkg2Z0A4U-HUBt-6mx-kKexUnJ5qXrEivsQ"
+#url_pdf = "https://outlookuga-my.sharepoint.com/:b:/g/personal/mswang_uga_edu/EY2wo4b0iAFPkg2Z0A4U-HUBt-6mx-kKexUnJ5qXrEivsQ"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"

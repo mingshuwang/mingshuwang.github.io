@@ -28,13 +28,17 @@ Year         | Role
 
 
 #### Editorial Positions
-- 2020-	Associate Editor, [*Regional Studies, Regional Science*](https://www.tandfonline.com/toc/rsrs20/current)
+
+Year| Role|Journal
+----| ----|-------
+2021-|Editor|[*Asian Geographer*](https://www.tandfonline.com/toc/rage20/current)
+2020-|Associate Editor|[*Regional Studies, Regional Science*](https://www.tandfonline.com/toc/rsrs20/current)
+2021-|Editorial Board Member|[*Computers, Environment and Urban Systems*](https://www.journals.elsevier.com/computers-environment-and-urban-systems)
+2020-|Editorial Board Member|[*UCL Open: Environment*](https://ucl.scienceopen.com/)
+2019-|Editorial Board Member|[*Remote Sensing*](https://www.mdpi.com/journal/remotesensing)
+2019-|Editorial Board Member|[*PLOS ONE*](https://journals.plos.org/plosone/)
 
 
-#### Editorial Board Membership
-- 2020- [*UCL Open: Environment*](https://ucl.scienceopen.com/)
-- 2019-	[*PLOS ONE*](https://journals.plos.org/plosone/)
-- 2019-	[*Remote Sensing*](https://www.mdpi.com/journal/remotesensing)
 
 #### Conference Program Committee
 Year| Conference|Location
@@ -64,33 +68,10 @@ Year| Conference|Session|Location
 
 #### Peer Reviewer for Grants
 - Dutch Research Council (NWO, Nederlandse Organisatie voor Wetenschappelijk Onderzoek)
-- US National Science Foundation
+- US National Science Foundation (NSF)
 - Estonian Research Council (ETAg)
 - Vienna Science and Technology Fund (Wiener Wissenschafts-, Forschungs- und Technologiefonds, WWTF)
+- Hong Kong Environment and Conservation Fund (ECF)
 
 #### Peer Reviewer for Selected Academic Journals
-Top reviewers in Social Sciences (top 1% of reviewers): 2018, 2019
-- Annals of GIS
-- Applied Geography
-- Cities
-- Computers, Environment, and Urban Systems
-- Earth Science Informatics
-- Environment and Planning B: Urban Analytics and City Science
-- Environment Science & Technology
-- Habitat International 
-- ISPRS International Journal of Geo-Information
-- Journal of Spatial Science
-- Journal of Transport Geography
-- Journal of Urban Management
-- Journal of Urban Planning and Development
-- PLoS ONE
-- Regional Studies
-- Remote Sensing
-- Sensors
-- Sustainability
-- The Professional Geographer
-- Transactions in GIS
-- Transport Reviews
-- Transportation
-- Urban Geography
-- Urban Studies
+- Publons Top Reviewers in Social Sciences (top 1% of reviewers): 2018, 2019

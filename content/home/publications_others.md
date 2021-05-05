@@ -23,7 +23,7 @@ weight = 25
 - Madden, M., Vacca, G., Paudyal, D., **Wang, M.** (2018). Geospatial Applications of the Internet of Things (IoTs). Special Issue [*ISPRS International Journal of Geo-Information*](http://www.mdpi.com/journal/ijgi/special_issues/DeepLearning_Computer_Vision_GeoInformation).
 
 #### BOOK CHAPTERS
-- **Wang, M.** (2019). Empirical Mode Decomposition in Remote Sensed Image Processing. In Chapter 7: Image Processing and Analysis Methods, *ASPRS Manual of Remote Sensing*, 4th Edition. Edited by Brandades, S. & Madden, M. DOI: https://doi.org/10.14358/MRS/Chapter7
+- **Wang, M.** (2020). Empirical Mode Decomposition in Remote Sensed Image Processing. In Chapter 7: Image Processing and Analysis Methods, *ASPRS Manual of Remote Sensing*, 4th Edition. Edited by Brandades, S. & Madden, M. DOI: https://doi.org/10.14358/MRS/Chapter7
 
 #### BOOK REVIEWS
 - **Wang, M.** (2018). Integrating Scale in Remote Sensing and GIS, Edited by Quattrochi, D., Wentz, E., Lam, N., Emerson, C. CRC Press, Boca Raton, FL, USA. Jan 19, 2017. 402p. *Photogrammetric Engineering & Remote Sensing*, *84*(11), 673. 

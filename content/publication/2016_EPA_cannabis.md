@@ -39,7 +39,7 @@ projects = []
 
 # Links (optional).
 url_source = "http://journals.sagepub.com/doi/abs/10.1177/0308518X15598541"
-url_pdf = "https://outlookuga-my.sharepoint.com/:b:/g/personal/mswang_uga_edu/EaFwlvaqQwpCuISVkzeH4wgBTBVuSi2tMr10BOADn3t0TQ"
+#url_pdf = "https://outlookuga-my.sharepoint.com/:b:/g/personal/mswang_uga_edu/EaFwlvaqQwpCuISVkzeH4wgBTBVuSi2tMr10BOADn3t0TQ"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
