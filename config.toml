@@ -109,8 +109,8 @@ enableGitInfo = true
 
   map = 2
   map_api_key = ""
-  latitude = "55.8717"
-  longitude = "4.2883"
+  latitude = "55.87175"
+  longitude = "-4.28836"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
