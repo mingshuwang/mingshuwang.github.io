@@ -8,7 +8,7 @@ date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
-subtitle = ""
+subtitle = "I received my [University Teaching Qualification, UTQ](https://www.vsnu.nl/en_GB/utq) in 2020."
 
 # Order that this section will appear in.
 weight = 60
@@ -16,7 +16,15 @@ weight = 60
 
 
 +++
-I received my [University Teaching Qualification, UTQ](https://www.vsnu.nl/en_GB/utq) in 2020. And I have taught the following courses at the **University of Twente**, the Netherlands:
+I have taught the following courses at the **University of Glasgow**, United Kingdom:
+
+Year|Course|Level|Role(s)|
+----|------|-----|-------|
+2021|[PRINCIPLES OF GIS](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5019)|Graduate|Coordinator + Lecturer
+2022|[GIS A:APPLIED SPATIAL ANALYSIS](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG4111)|Undergraduate|Coordinator + Lecturer
+
+
+I have taught the following courses at the **University of Twente**, the Netherlands:
 
 Year|Course|Level|Role(s)|
 ----|------|-----|-------|

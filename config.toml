@@ -64,7 +64,7 @@ enableGitInfo = true
   #                  { name = "University of Twente, DesignLab", url = "https://www.utwente.nl/en/designlab/"} ,
   #                  { name = "4TU Centre for Resilience Engineering (4TU RE) of the Netherlands", url = "https://www.4tu.nl/resilience/"} ]
 
-  organizations = [ { name = "University of Glasgow", url = "hhttps://www.gla.ac.uk/"} ]
+  organizations = [ { name = "University of Glasgow", url = "https://www.gla.ac.uk/"} ]
 
 
 
@@ -72,7 +72,7 @@ enableGitInfo = true
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "mingshu.wang@glasgow.ac.uk"
   address = "School of Geographical and Earth Sciences, East Quadrangle, University of Glasgow, Glasgow, G12 8QQ, United Kingdom"
-  office_hours = "Email for appointment"
+  office_hours = ""
   phone = ""
   skype = ""
   telegram = ""
@@ -107,7 +107,7 @@ enableGitInfo = true
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
 
-  map = 3
+  map = 2
   map_api_key = ""
   latitude = "55.8717"
   longitude = "4.2883"
