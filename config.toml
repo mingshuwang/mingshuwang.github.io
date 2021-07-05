@@ -10,7 +10,7 @@ title = ""
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Mingshu Wang 2020"
+copyright = "&copy; Mingshu Wang 2021"
 
 theme = "academic"
 enableEmoji = true
@@ -55,20 +55,25 @@ enableGitInfo = true
 
   # Your details.
   name = "Dr. Mingshu Wang"
-  role = "Assistant Professor of Geodata Science"
+  role = "Senior Lecturer (Associate Professor) in Geospatial Data Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Twente, Faculty of Geo-information Science and Earth Observation (ITC)", url = "https://www.itc.nl/" } , 
-                    { name = "University of Twente, DesignLab", url = "https://www.utwente.nl/en/designlab/"} ,
-                    { name = "4TU Centre for Resilience Engineering (4TU RE) of the Netherlands", url = "https://www.4tu.nl/resilience/"} ]
+  #organizations = [ 
+  #                  { name = "University of Twente, Faculty of Geo-information Science and Earth Observation (ITC)", url = "https://www.itc.nl/"} ,
+  #                  { name = "University of Twente, DesignLab", url = "https://www.utwente.nl/en/designlab/"} ,
+  #                  { name = "4TU Centre for Resilience Engineering (4TU RE) of the Netherlands", url = "https://www.4tu.nl/resilience/"} ]
+
+  organizations = [ { name = "University of Glasgow", url = "hhttps://www.gla.ac.uk/"} ]
+
+
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "mingshu.wang@utwente.nl"
-  address = "Hengelosestraat 99, 1-039, 7514AE Enschede, The Netherlands"
+  email = "mingshu.wang@glasgow.ac.uk"
+  address = "School of Geographical and Earth Sciences, East Quadrangle, University of Glasgow, Glasgow, G12 8QQ, United Kingdom"
   office_hours = "Email for appointment"
-  phone = "+31-5 34 89 58 87"
+  phone = ""
   skype = ""
   telegram = ""
 
@@ -81,7 +86,9 @@ enableGitInfo = true
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = "itc_nl.png"
+
+  #logo = "itc_nl.png"
+  logo = "university-of-glasgow-280.png"
 
 
   # Enable/disable map in Contact widget.
@@ -100,10 +107,10 @@ enableGitInfo = true
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
 
-  map = 2
+  map = 3
   map_api_key = ""
-  latitude = "52.2237"
-  longitude = "6.8858"
+  latitude = "55.8717"
+  longitude = "4.2883"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -230,7 +237,7 @@ enableGitInfo = true
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:mingshu.wang@utwente.nl"
+    link = "mailto:mingshu.wang@glasgow.ac.uk"
 
   [[params.social]]
     icon = "twitter"
