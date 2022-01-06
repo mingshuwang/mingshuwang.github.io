@@ -20,7 +20,7 @@ I have taught the following courses at the **University of Glasgow**, United Kin
 
 Year|Course|Level|Role(s)|
 ----|------|-----|-------|
-2021|[PRINCIPLES OF GIS](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5019)|Graduate|Coordinator + Lecturer
+2021|[Principles of GIS](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5019)|Graduate|Coordinator + Lecturer
 2021|[Geospatial Fundamentals](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5008)|Graduate|Lecturer
 
 

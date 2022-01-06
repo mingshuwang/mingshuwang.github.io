@@ -47,7 +47,7 @@ enableGitInfo = true
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "forest"
+  color_theme = "1950s"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -65,7 +65,7 @@ enableGitInfo = true
   #                  { name = "University of Twente, DesignLab", url = "https://www.utwente.nl/en/designlab/"} ,
   #                  { name = "4TU Centre for Resilience Engineering (4TU RE) of the Netherlands", url = "https://www.4tu.nl/resilience/"} ]
 
-  organizations = [ { name = "University of Glasgow", url = "https://www.gla.ac.uk/"}, {name = "4TU Centre for Resilience Engineering (4TU RE) of the Netherlands", url = "https://www.4tu.nl/resilience/"}]
+  organizations = [ { name = "University of Glasgow, UK", url = "https://www.gla.ac.uk/"}, {name = "4TU Center for Resilience Engineering of the Netherlands", url = "https://www.4tu.nl/resilience/"}]
 
 
 
