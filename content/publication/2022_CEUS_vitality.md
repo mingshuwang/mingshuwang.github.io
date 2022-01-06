@@ -36,8 +36,8 @@ selected = true
 projects = []
 
 # Links (optional).
-url_source = "https://doi.org/10.1016/j.compenvurbsys.2021.101716"
-#url_pdf = "https://doi.org/10.1016/j.compenvurbsys.2021.101716"
+#url_source = "https://doi.org/10.1016/j.compenvurbsys.2021.101716"
+url_pdf = "https://doi.org/10.1016/j.compenvurbsys.2021.101716"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
