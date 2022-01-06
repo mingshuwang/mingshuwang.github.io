@@ -3,7 +3,7 @@ title = "Measuring polycentric urban development: The importance of accurately d
 date = 2021-04-15
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ben Derudder", "Xingjian Liu", "**Mingshu Wang** (corresponding author", "Weiyang Zhang", "Kang Wu", "Freke Caset"]
+authors = ["Ben Derudder", "Xingjian Liu", "**Mingshu Wang** (corresponding author)", "Weiyang Zhang", "Kang Wu", "Freke Caset"]
 
 # Publication type.
 # Legend:

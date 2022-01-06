@@ -3,7 +3,7 @@ title = "Simulating the urban spatial structure with spatial interaction: A case
 date = 2021-09-15
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Cai Wu", "Duncan Smith", "**Mingshu Wang**"]
+authors = ["Cai Wu", "Duncan Smith", "**Mingshu Wang** (corresponding author)"]
 
 # Publication type.
 # Legend:
