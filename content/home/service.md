@@ -32,8 +32,10 @@ Year         | Role
 Year| Role|Journal
 ----| ----|-------
 2021-|Editor|[*Asian Geographer*](https://www.tandfonline.com/toc/rage20/current)
+2021-|Associate Editor|[*ISPRS International Journal of Geo-Information*](https://www.mdpi.com/journal/ijgi)
 2020-|Associate Editor|[*Regional Studies, Regional Science*](https://www.tandfonline.com/toc/rsrs20/current)
 2021-|Editorial Board Member|[*Computers, Environment and Urban Systems*](https://www.journals.elsevier.com/computers-environment-and-urban-systems)
+2021-|Editorial Board Member|[*Transactions in Urban Data, Science, and Technology*](https://us.sagepub.com/en-us/nam/transactions-in-urban-data-science-and-technology/journal203731)
 2020-|Editorial Board Member|[*UCL Open: Environment*](https://ucl.scienceopen.com/)
 2019-|Editorial Board Member|[*Remote Sensing*](https://www.mdpi.com/journal/remotesensing)
 2019-|Editorial Board Member|[*PLOS ONE*](https://journals.plos.org/plosone/)
@@ -72,6 +74,7 @@ Year| Conference|Session|Location
 - Estonian Research Council (ETAg)
 - Vienna Science and Technology Fund (Wiener Wissenschafts-, Forschungs- und Technologiefonds, WWTF)
 - Hong Kong Environment and Conservation Fund (ECF)
+- Xi'an Jiaotong-Liverpool University (XJTLU) Postgraduate Research Scholarship
 
 #### Peer Reviewer for Selected Academic Journals
 - Publons Top Reviewers in Social Sciences (top 1% of reviewers): 2018, 2019

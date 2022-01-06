@@ -21,16 +21,16 @@ I have taught the following courses at the **University of Glasgow**, United Kin
 Year|Course|Level|Role(s)|
 ----|------|-----|-------|
 2021|[PRINCIPLES OF GIS](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5019)|Graduate|Coordinator + Lecturer
-2022|[GIS A:APPLIED SPATIAL ANALYSIS](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG4111)|Undergraduate|Coordinator + Lecturer
+2021|[Geospatial Fundamentals](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5008)|Graduate|Lecturer
 
 
 I have taught the following courses at the **University of Twente**, the Netherlands:
 
 Year|Course|Level|Role(s)|
 ----|------|-----|-------|
-2018, 2019, 2020,2021|[Academic Skills](https://studyguide.itc.nl/m-geo/all-courses)|Graduate|Coordinator + Lecturer
+2018, 2019, 2020, 2021|[Academic Skills](https://studyguide.itc.nl/m-geo/all-courses)|Graduate|Coordinator + Lecturer
 2019, 2020|[HTHT Minor Geographic Information Systems (GIS)](https://www.utwente.nl/onderwijs/keuzeruimte/minor/uploads/htht/brochure-htht-gis.pdf)|Undergraduate|Coordinator + Lecturer
-2019, 2020,2021|[Integrated Geospatial Workflow](https://studyguide.itc.nl/m-geo/all-courses)|Graduate|Lecturer
+2019, 2020, 2021|[Integrated Geospatial Workflow](https://studyguide.itc.nl/m-geo/all-courses)|Graduate|Lecturer
 2019|[Big Geodata Processing](https://studyguide.itc.nl/m-geo/all-courses)|Graduate|Lecturer
 2019|[Methods and Techniques for Geo-information Management and Application](https://www.msc-gima.nl/module-1/)|Graduate|Lecturer
 

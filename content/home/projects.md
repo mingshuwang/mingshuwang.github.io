@@ -31,7 +31,7 @@ filter_default = 0
 [[filter]]
    name = "All"
    tag = "*"
-  
+   
 [[filter]]
    name = "Polycentric Urban Development"
    tag = ".polycentric_urban_development"

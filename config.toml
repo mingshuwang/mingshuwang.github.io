@@ -10,7 +10,7 @@ title = ""
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Mingshu Wang 2021"
+copyright = "&copy; Mingshu Wang 2022"
 
 theme = "academic"
 enableEmoji = true
@@ -47,7 +47,7 @@ enableGitInfo = true
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "ocean"
+  color_theme = "forest"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -59,12 +59,13 @@ enableGitInfo = true
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
+
   #organizations = [ 
   #                  { name = "University of Twente, Faculty of Geo-information Science and Earth Observation (ITC)", url = "https://www.itc.nl/"} ,
   #                  { name = "University of Twente, DesignLab", url = "https://www.utwente.nl/en/designlab/"} ,
   #                  { name = "4TU Centre for Resilience Engineering (4TU RE) of the Netherlands", url = "https://www.4tu.nl/resilience/"} ]
 
-  organizations = [ { name = "University of Glasgow", url = "https://www.gla.ac.uk/"} ]
+  organizations = [ { name = "University of Glasgow", url = "https://www.gla.ac.uk/"}, {name = "4TU Centre for Resilience Engineering (4TU RE) of the Netherlands", url = "https://www.4tu.nl/resilience/"}]
 
 
 
@@ -87,7 +88,7 @@ enableGitInfo = true
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
 
-  #logo = "itc_nl.png"
+
   logo = "university-of-glasgow-280.png"
 
 
@@ -259,10 +260,6 @@ enableGitInfo = true
     icon_pack = "ai"
     link = "https://publons.com/researcher/1207599/mingshu-wang/"
 
-#  [[params.social]]
-#    icon = "researchgate"
-#    icon_pack = "ai"
-#    link = "https://www.researchgate.net/profile/Mingshu_Wang"
 
 #  [[params.social]]
 #    icon = "github"
