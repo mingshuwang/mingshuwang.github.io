@@ -3,7 +3,7 @@ title = "Cultivating historical heritage area vitality using urban morphology ap
 date = 2022-01-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jiayu Wu", "Yutian Lu", "Hei Gao", **Mingshu Wang** (corresponding author)"]
+authors = ["Jiayu Wu", "Yutian Lu", "Hei Gao", "**Mingshu Wang** (corresponding author)"]
 
 # Publication type.
 # Legend:
