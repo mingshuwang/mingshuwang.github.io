@@ -1,5 +1,5 @@
 +++
-title = "Cultivating historical heritage area vitality using urban morphology approach based on big data and machine learning"
+title = "Understanding taxi ridership with spatial spillover effects and temporal dynamics"
 date = 2022-02-16
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
