@@ -40,8 +40,9 @@ I served as a committee member/examiner for the following students:
 Student| Degree Program| Topic | Year
 -------|--------| ------|------| 
 Wan Li|Post-doc, East China Normal University, China|Urban polycentricity and economic productivity in China|2020
-Yuzhou Chen|PhD, University of South Florida, USA|RProposing coordinated urban development strategies for cities networked by spatial flows|2019-2023
-Tongjing Wang|PhD, Delft University of Technology, NL|Regional Virtual Interaction Analysis using Complex Network Theory|2019-2023
+Weiye Wang|PhD, University of Georgia, USA|Using a matrix-based approach to investigate affordance-based design in pedestrian streets|2022-
+Yuzhou Chen|PhD, University of South Florida, USA|Proposing coordinated urban development strategies for cities networked by spatial flows|2019-
+Tongjing Wang|PhD, Delft University of Technology, NL|Regional Virtual Interaction Analysis using Complex Network Theory|2019-
 Bram Roozen|MSc., [GIMA](https://www.uu.nl/masters/en/geographical-information-management-and-applications-gima)| Crawling the world wide web to find hidden patterns of people|2019-2021
 Rosalie Kremser|MSc., [Cartography](https://cartographymaster.eu/)|Multi-Hazard Risk Assessment using GIS in urban areas|2019-2021
 Wei Li|MSc., [Urban Planning and Management](https://www.itc.nl/education/studyfinder/geo-information-science-earth-observation/specialization/urban-planning-and-management/)|Property valuation using deep learning|2018-2020
