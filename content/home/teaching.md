@@ -20,8 +20,10 @@ I have taught the following courses at the **University of Glasgow**, United Kin
 
 Year|Course|Level|Role(s)|
 ----|------|-----|-------|
-2021|[Principles of GIS](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5019)|Graduate|Coordinator + Lecturer
-2021|[Geospatial Fundamentals](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5008)|Graduate|Lecturer
+2023|[Geospatial Data Infranstructure and Land Administration](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5013)|Graduate| Instructor
+2023|[GIS A:Applied Spatial Analysis](https://t4.gla.ac.uk/coursecatalogue/course/?code=GEOG4111)|Undergraduate|Coordinator + Instructor
+2021,2022|[Principles of GIS](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5019)|Graduate|Coordinator + Instructor
+2021|[Geospatial Fundamentals](https://www.gla.ac.uk/coursecatalogue/course/?code=GEOG5008)|Graduate|Instructor
 
 
 I have taught the following courses at the **University of Twente**, the Netherlands:

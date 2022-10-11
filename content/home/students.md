@@ -19,7 +19,9 @@ I have supervised the following PhD and MSc students:
 
 Student| Degree Program| Topic | Year
 -------|--------| ------|------| 
-Yue Li|Ph.D.|Prediction urban traffic flows with emerging urban big data by deep learning and computer vision|2021-2024
+Xinyi Yuan|Ph.D.|TBD|2022-2025
+Yue Li|Ph.D. (University of Amsterdam)|Formation Mechanisms and Social Productivity of Cohesion in Spatial Mismatched Voluntary Leisure Organizations in Urban Open Space|2022-2026
+Yue Li|Ph.D.(University of Glasgow)|Prediction urban traffic flows with emerging urban big data by deep learning and computer vision|2021-2024
 Wu Cai|Ph.D.|A pattern language approach enhanced with urban dynamic data for morphological analysis and simulation in urban design|2020-2023
 Nadia Shafaeipoursarmour |Ph.D.|Measuring pedestrian dynamics|2020-2024
 Ting Zhou|Ph.D.|Urban green space and physical activities|2020-2024

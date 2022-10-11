@@ -18,7 +18,7 @@ weight = 70
 #### Organizational Roles within Professional Societies
 Year         | Role
 -------------| ------------- 
-2015-        | **Secretary**, [Working Group IV/6—Internet of Things and Spatial Decision Support, International Society for Photogrammetry and Remote Sensing (ISPRS)](http://www2.isprs.org/commissions/comm4/wg6.html)
+2015-2022    | **Secretary**, [Working Group IV/6—Internet of Things and Spatial Decision Support, International Society for Photogrammetry and Remote Sensing (ISPRS)](http://www2.isprs.org/commissions/comm4/wg6.html)
 2019-        | **Expert Supporter** [Confederation of Laboratories for Artificial Intelligence Research in Europe (CLAIRE)](https://claire-ai.org/)
 2019-        | **Supporter** [European Laboratory for Learning and Intelligent Systems (ELLIS)](https://ellis.eu/)
 2020-2021	 | **Board of Director Member** [Chinese Professionals of Geographical Information Science (CPGIS)](https://www.cpgis.org/)
@@ -45,7 +45,7 @@ Year| Role|Journal
 #### Conference Program Committee
 Year| Conference|Location
 ----| ----------|--------
-2021| [XXIV ISPRS Congress](http://www.isprs2020-nice.com/)|Nice, France
+2021,2022| [XXIV ISPRS Congress](http://www.isprs2020-nice.com/)|Nice, France
 2020| [The 3rd ACM SIGSPATIAL International Workshop on Advances in Resilient and Intelligent Cities (ARIC 2020)](https://urbands.github.io/aric2020/)|Seattle, USA
 2020| [The 19th IEEE International Conference on Machine Learning and Applications](https://www.icmla-conference.org/icmla20/))|Miami, USA
 2020| [Climate Change and Disaster Management (CCDM2020)](http://www.gi4dm.net/2020/)|Sydney, Australia
@@ -62,6 +62,7 @@ Year| Conference|Location
 #### Conference Session Chair
 Year| Conference|Session|Location
 ----| ----------|-------|--------
+2022|[XXIV ISPRS Congress](https://www.isprs2022-nice.com/)|Indoor Applications and Mobility|Nice, France
 2020|[Interconnected: Resilience Innovations for Sustainable Development Goals](https://www.4tu.nl/resilience/en/events/joint-international-resilience-conference/)|Urban Resilience|Delft, Netherlands
 2019|International Conference on Geomatics in the Big Data Era |Big Data Applications|Guilin, China
 2019|[The 25th International Sustainable Development Research Society Conference](http://isdrs.org/)|Urban Resilience|Nanjing, China
@@ -71,6 +72,9 @@ Year| Conference|Session|Location
 #### Peer Reviewer for Grants
 - Dutch Research Council (NWO, Nederlandse Organisatie voor Wetenschappelijk Onderzoek)
 - US National Science Foundation (NSF)
+- Engineering and Physical Sciences Research Council (EPSRC), UK
+- National Science Center, Poland
+- Research Grants Council (RGC), Hong Kong
 - Estonian Research Council (ETAg)
 - Vienna Science and Technology Fund (Wiener Wissenschafts-, Forschungs- und Technologiefonds, WWTF)
 - Hong Kong Environment and Conservation Fund (ECF)

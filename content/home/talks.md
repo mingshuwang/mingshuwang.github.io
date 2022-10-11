@@ -19,7 +19,7 @@ weight = 55
 
 Year|Institute(s)|
 ----|------|
-2022|ESRC Urban Big Data Center (UBDC), CPGIS Educational Webinar Series, City+ Lecture Series on Shared Micromobility, University of Leeds
+2022|ESRC Urban Big Data Center (UBDC), CPGIS Educational Webinar Series, City+ Lecture Series on Shared Micromobility, University of Leeds, East China Normal University, Hong Kong Baptist University, National University of Singapore, The Hong Kong Polytechnic University, The University of Hong Kong, POPNET of the Netherlands
 2021|Alan Turing Institute, East China Normal University, The Chinese University of Hong Kong,The Hong Kong Polytechnic University, University of Liverpool
 2020|Beijing Normal University, Linköping University, Nanjing University, Nanjing Normal University, University of Amsterdam, United Nations University and Maastricht University, University of Glasgow
 2019|Chinese Academy of Science, Eindhoven University of Technology, Henan University, Peking University, Tongji University, University of Liverpool, University of Manchester, University of Toronto, Zhejiang University

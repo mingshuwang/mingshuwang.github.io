@@ -29,4 +29,3 @@ weight = 25
 - **Wang, M.** (2018). Integrating Scale in Remote Sensing and GIS, Edited by Quattrochi, D., Wentz, E., Lam, N., Emerson, C. CRC Press, Boca Raton, FL, USA. Jan 19, 2017. 402p. *Photogrammetric Engineering & Remote Sensing*, *84*(11), 673. 
 - **Wang, M.** (2016). Location Is (Still) Everything: The Surprising Influence of the Real World on How We Search, Shop, and Sell in the Virtual One, David R. Bell. Houghton Mifflin Harcourt, Boston, MA, July 15, 2014. 240p. *Southeastern Geographer*, 56*(4), 476-477.
 - **Wang, M.**(2015). Global Urban Monitoring and Assessment through Earth Observation, Edited by Weng, Q. CRC Press, Boca Raton, FL, USA. May 23, 2014. 440p. *Photogrammetric Engineering & Remote Sensing*, *81*(9), 692-694.
-
