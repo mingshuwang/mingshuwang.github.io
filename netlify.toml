@@ -6,3 +6,9 @@
   HUGO_VERSION = "0.30.2"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
+  
+[module]
+  [[module.imports]]
+    path = "github.com/wowchemy/wowchemy-hugo-themes/netlify-cms-academic"
+  [[module.imports]]
+    path = "github.com/wowchemy/wowchemy-hugo-themes/wowchemy"
